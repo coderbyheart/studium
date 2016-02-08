@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: zwischenfazit-nach-zwei-jahren
 title: Zwischenfazit nach zwei Jahren
 excerpt: "Es ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen.
   Wie <a href=\"/zwischenfazit-nach-einem-jahr\">bereits

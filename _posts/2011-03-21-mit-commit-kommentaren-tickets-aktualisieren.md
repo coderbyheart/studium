@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: mit-commit-kommentaren-tickets-aktualisieren
 title: Mit commit-Kommentaren Tickets aktualisieren
 date: '2011-03-21 20:22:56 +0100'
 tags:

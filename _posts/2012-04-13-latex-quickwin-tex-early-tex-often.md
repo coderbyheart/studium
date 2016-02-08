@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: latex-quickwin-tex-early-tex-often
 title: 'LaTeX QuickWin: Tex early, tex often!'
 date: '2012-04-13 17:40:21 +0200'
 tags:

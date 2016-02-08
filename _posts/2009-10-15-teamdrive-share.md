@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: teamdrive-share
 title: TeamDrive-Share
 excerpt: "Eigentlich stellen ja alle Dozenten ihre Folien oder Skripte als Download
   zur Verfügung, nur nicht zentral, sonder gibt es da viele Möglichkeiten.\r\n\r\nNach

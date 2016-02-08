@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: java-applet-zum-losen-linearer-gleichungssysteme
 title: Java-Applet zum Lösen linearer Gleichungssysteme
 date: '2010-07-16 23:08:06 +0200'
 tags:

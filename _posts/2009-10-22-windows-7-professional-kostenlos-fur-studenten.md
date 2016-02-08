@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: windows-7-professional-kostenlos-fur-studenten
 title: Windows 7 Professional kostenlos für Studenten
 date: '2009-10-22 12:44:25 +0200'
 tags:

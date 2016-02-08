@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: dropbox-synct-jetzt-via-webdav
 title: Dropbox synct jetzt via WebDAV
 date: '2011-04-27 13:09:21 +0200'
 tags:

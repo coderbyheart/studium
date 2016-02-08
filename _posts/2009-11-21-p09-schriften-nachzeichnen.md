@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: p09-schriften-nachzeichnen
 title: 'P09: Schriften nachzeichnen'
 date: '2009-11-21 17:06:42 +0100'
 tags:

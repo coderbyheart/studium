@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: review-board
 title: Review Board
 excerpt: "Für das <a href=\"/tag/WhatTheFoto\">Softwaretechnik-Projekt</a>
   hatte ich nach eine Möglichkeit gesucht, komfortable Code-Reviews zu machen. Mein

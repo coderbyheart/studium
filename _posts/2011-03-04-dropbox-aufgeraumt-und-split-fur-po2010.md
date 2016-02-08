@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: dropbox-aufgeraumt-und-split-fur-po2010
 title: Dropbox aufgeräumt und Split für PO2010
 date: '2011-03-04 12:33:16 +0100'
 tags:

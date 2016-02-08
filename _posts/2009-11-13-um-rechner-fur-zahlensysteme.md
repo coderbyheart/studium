@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: um-rechner-fur-zahlensysteme
 title: Um-Rechner für Zahlensysteme
 date: '2009-11-13 18:03:39 +0100'
 tags:

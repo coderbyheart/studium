@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: stehgreifprojekt-wand
 title: 'Stehgreifprojekt: Wand'
 excerpt: "Ziel des Stehgreifprojektes, das um 10 Uhr begann war es, um 15:30 Uhr zu
   einem vorgegebenen Thema zwei Vorschläge zu präsentieren.\r\nZusammen mit Philipp

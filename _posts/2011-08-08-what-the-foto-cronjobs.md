@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: what-the-foto-cronjobs
 title: 'What the Foto: Cronjobs'
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"

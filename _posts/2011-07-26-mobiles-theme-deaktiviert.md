@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: mobiles-theme-deaktiviert
 title: Mobiles Theme deaktiviert
 date: '2011-07-26 11:01:44 +0200'
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: daumenkino
 title: Daumenkino
 date: '2011-04-05 20:48:58 +0200'
 tags:

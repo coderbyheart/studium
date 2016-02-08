@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: ruckmeldung-ohne-ruckmeldung
 title: Rückmeldung ohne Rückmeldung
 date: '2010-01-22 14:52:14 +0100'
 tags:

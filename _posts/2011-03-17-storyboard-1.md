@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: storyboard-1
 title: 'Storyboard #1'
 date: '2011-03-17 09:49:22 +0100'
 tags:

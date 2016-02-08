@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: aufschwung-messe
 title: Aufschwung-Messe
 date: '2012-03-28 11:48:01 +0200'
 tags:

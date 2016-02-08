@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: logo-fur-das-elektronische-medien-projekt
 title: Logo für das Elektronische Medien Projekt
 date: '2010-03-26 10:28:22 +0100'
 tags:

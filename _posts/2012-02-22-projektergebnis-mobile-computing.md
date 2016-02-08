@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: projektergebnis-mobile-computing
 title: Projektergebnis Mobile Computing
 excerpt: "<a href=\"https://market.android.com/details?id=de.hsrm.mi.mobcomp.y2k11grp04\"><img
   class=\"size-medium wp-image-951\" title=\"GroupMood im Android Market\" src=\"/uploads/2012/02/logo-500x137.png\"

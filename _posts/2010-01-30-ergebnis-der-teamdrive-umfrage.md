@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: ergebnis-der-teamdrive-umfrage
 title: Ergebnis der TeamDrive-Umfrage
 date: '2010-01-30 13:44:13 +0100'
 tags:

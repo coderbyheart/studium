@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: ieee-754-rechner-fur-flieskommazahlen
 title: IEEE-754 Rechner für Fließkommazahlen
 date: '2009-11-20 14:24:40 +0100'
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: auszeichnungssprachen-kleines-webdev-howto
 title: 'Auszeichnungssprachen: Kleines Webdev Howto'
 date: '2010-03-26 14:16:59 +0100'
 tags:

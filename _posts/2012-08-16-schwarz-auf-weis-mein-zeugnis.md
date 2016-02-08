@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: schwarz-auf-weis-mein-zeugnis
 title: 'Schwarz auf Weiß: mein Zeugnis'
 date: '2012-08-16 23:02:16 +0200'
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: mein-fazit-zum-medieninformatik-studium
 title: Mein Fazit zum Medieninformatik-Studium
 date: '2012-08-16 23:02:52 +0200'
 tags:

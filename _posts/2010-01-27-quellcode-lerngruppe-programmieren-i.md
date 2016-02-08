@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: quellcode-lerngruppe-programmieren-i
 title: Quellcode Lerngruppe Programmieren I
 date: '2010-01-27 17:58:58 +0100'
 tags:

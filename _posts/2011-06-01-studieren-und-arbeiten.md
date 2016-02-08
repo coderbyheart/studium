@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: studieren-und-arbeiten
 title: Studieren und Arbeiten?
 excerpt: "Gestern war ein ehemaliger <a href=\"http://krawall.de/\">Krawall</a>-Kollege
   bei mir, um ein paar Infos zum Studium ein zu holen. Insbesondere stand für ihn

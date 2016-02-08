@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: drucker-automatisch-passend-zum-raum-setzen
 title: Drucker automatisch passend zum Raum setzen
 date: '2011-05-17 11:49:23 +0200'
 tags:

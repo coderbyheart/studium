@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: via-ssh-aufs-home-verzeichnis-ohne-vpn
 title: Via ssh aufs Home-Verzeichnis (ohne VPN)
 date: '2009-10-20 10:38:59 +0200'
 tags:

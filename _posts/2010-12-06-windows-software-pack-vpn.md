@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: windows-software-pack-vpn
 title: Windows Software Pack VPN
 date: '2010-12-06 11:35:13 +0100'
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: achievement-unlocked
 title: Achievement unlocked!
 date: '2011-10-28 11:40:57 +0200'
 tags:

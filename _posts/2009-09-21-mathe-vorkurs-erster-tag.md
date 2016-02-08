@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: mathe-vorkurs-erster-tag
 title: 'Mathe-Vorkurs: Erster Tag'
 date: '2009-09-21 14:16:09 +0200'
 tags:

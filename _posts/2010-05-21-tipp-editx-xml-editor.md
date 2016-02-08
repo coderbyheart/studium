@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: tipp-editx-xml-editor
 title: 'Tipp: editX XML Editor'
 date: '2010-05-21 10:02:53 +0200'
 tags:

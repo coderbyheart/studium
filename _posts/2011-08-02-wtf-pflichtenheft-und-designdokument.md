@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: wtf-pflichtenheft-und-designdokument
 title: 'WTF: Pflichtenheft und Designdokument'
 date: '2011-08-02 06:00:29 +0200'
 tags:

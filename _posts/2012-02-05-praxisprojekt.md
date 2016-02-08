@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: praxisprojekt
 title: Praxisprojekt
 date: '2012-02-05 11:54:32 +0100'
 tags:

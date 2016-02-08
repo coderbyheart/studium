@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: kleines-update-am-read-mi-zu-dropbox-sync
 title: Kleines Update am read.MI zu Dropbox Sync
 date: '2011-05-25 17:23:31 +0200'
 tags:

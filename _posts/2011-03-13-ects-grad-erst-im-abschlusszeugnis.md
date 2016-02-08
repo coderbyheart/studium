@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: ects-grad-erst-im-abschlusszeugnis
 title: ECTS-Grad erst im Abschlusszeugnis
 date: '2011-03-13 10:51:19 +0100'
 tags:

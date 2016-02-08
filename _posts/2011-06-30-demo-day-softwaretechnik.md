@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: demo-day-softwaretechnik
 title: Demo-Day Softwaretechnik
 date: '2011-06-30 21:37:39 +0200'
 tags:

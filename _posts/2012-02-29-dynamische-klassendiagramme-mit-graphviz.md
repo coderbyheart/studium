@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: dynamische-klassendiagramme-mit-graphviz
 title: Dynamische Klassendiagramme mit GraphViz
 date: '2012-02-29 12:46:43 +0100'
 tags:

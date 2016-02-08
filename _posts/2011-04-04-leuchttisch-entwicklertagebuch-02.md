@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: leuchttisch-entwicklertagebuch-02
 title: Leuchttisch Entwicklertagebuch 02
 excerpt: "<img class=\"alignright size-full wp-image-459\" title=\"Leuchttisch Logo\"
   src=\"/uploads/2011/03/Leuchttisch-250.png\"

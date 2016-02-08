@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: schnell-check-in-in-foursqure-via-qr-code
 title: Schnell-Check-In in foursqure via QR-Code
 date: '2010-12-13 14:40:51 +0100'
 tags:

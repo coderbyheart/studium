@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: snack-automaten-wieder-aufgestellt
 title: Snack-Automaten wieder aufgestellt
 date: '2011-11-18 13:01:07 +0100'
 tags:

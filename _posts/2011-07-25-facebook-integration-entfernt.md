@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: facebook-integration-entfernt
 title: Facebook-Integration entfernt
 date: '2011-07-25 12:46:16 +0200'
 tags:

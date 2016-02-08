@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: was-ich-an-django-so-mag
 title: Was ich an Django so mag
 date: '2012-01-27 09:45:51 +0100'
 tags:

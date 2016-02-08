@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: jondhard-biffel-softwaretechnik-wanderpreis
 title: Jöndhard Biffel Softwaretechnik Wanderpreis
 date: '2011-02-03 22:27:51 +0100'
 tags:

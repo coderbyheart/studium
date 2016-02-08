@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: werkschau-wiesbaden
 title: Werkschau Wiesbaden
 excerpt: "Am vergangenen Donnerstag fand die alljährliche <a href=\"http://www.werkschau-wiesbaden.de/\">Werkschau
   Wiesbaden</a> statt, bei denen Studeenten der Fachbereiche Kommunikationsdesign

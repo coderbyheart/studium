@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: notenschnittrechner-nach-po2007
 title: Notenschnittrechner nach PO2007
 date: '2010-10-29 16:45:36 +0200'
 tags:

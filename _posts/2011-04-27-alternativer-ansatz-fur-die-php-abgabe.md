@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: alternativer-ansatz-fur-die-php-abgabe
 title: Alternativer Ansatz für die PHP-Abgabe
 date: '2011-04-27 09:01:00 +0200'
 tags:

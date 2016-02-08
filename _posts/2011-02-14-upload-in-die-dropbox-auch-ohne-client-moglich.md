@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: upload-in-die-dropbox-auch-ohne-client-moglich
 title: Upload in die Dropbox auch ohne Client möglich
 date: '2011-02-14 18:41:05 +0100'
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: laufende-projekte-ende-2010
 title: Laufende Projekte Ende 2010
 date: '2010-12-31 15:26:20 +0100'
 tags:

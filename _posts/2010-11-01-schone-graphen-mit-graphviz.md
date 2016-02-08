@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: schone-graphen-mit-graphviz
 title: Schöne Graphen mit GraphViz
 excerpt: "<a href=\"http://www.graphviz.org/\">Graphviz</a> ist ein tolles Tool, mit
   dessen Hilfe man mit wenig Quellcode dynamische Graphen erzeugen kann, die sich

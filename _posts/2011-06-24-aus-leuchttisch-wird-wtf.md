@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: aus-leuchttisch-wird-wtf
 title: Aus Leuchttisch wird WTF?
 excerpt: "Inzwischen hat unser Projekt auch seinen endgültigen Namen bekommen: \r\n\r\n<em>„What
   The Foto?“</em> oder kurz <em>„WTF?“</em>.\r\n\r\nDas Logo hat sich auch entsprechend

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: plagiate-in-ads
 title: Plagiate in ADS
 date: '2010-05-26 21:50:51 +0200'
 tags:

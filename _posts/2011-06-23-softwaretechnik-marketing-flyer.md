@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: softwaretechnik-marketing-flyer
 title: Softwaretechnik Marketing Flyer
 date: '2011-06-23 12:54:54 +0200'
 tags:

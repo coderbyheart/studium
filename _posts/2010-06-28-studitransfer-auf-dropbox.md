@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: studitransfer-auf-dropbox
 title: StudiTransfer auf Dropbox
 excerpt: Der StudiTransfer ist nun auch via Dropbox verfügbar.
 date: '2010-06-28 10:47:39 +0200'

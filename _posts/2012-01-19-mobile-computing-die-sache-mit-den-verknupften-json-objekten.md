@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: mobile-computing-die-sache-mit-den-verknupften-json-objekten
 title: 'Mobile Computing: Die Sache mit den verknüpften JSON-Objekten'
 date: '2012-01-19 10:37:37 +0100'
 tags:

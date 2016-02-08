@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: casteljau
 title: Casteljau
 date: '2011-06-24 10:40:01 +0200'
 tags:

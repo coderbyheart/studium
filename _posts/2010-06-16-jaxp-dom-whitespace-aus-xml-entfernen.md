@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: jaxp-dom-whitespace-aus-xml-entfernen
 title: 'JAXP DOM: Whitespace aus XML entfernen'
 date: '2010-06-16 13:44:44 +0200'
 tags:

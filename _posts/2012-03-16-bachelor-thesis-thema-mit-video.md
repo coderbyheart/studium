@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: bachelor-thesis-thema-mit-video
 title: Bachelor-Thesis-Thema (mit Video)
 date: '2012-03-16 13:09:28 +0100'
 tags:

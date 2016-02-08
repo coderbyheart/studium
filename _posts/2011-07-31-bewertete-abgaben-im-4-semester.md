@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: bewertete-abgaben-im-4-semester
 title: Bewertete Abgaben im vierten Semester
 excerpt: "Das vierte Semester war nach meinem Gefühl das bisher anstrengendste des
   Studiums. Allein für das <a href=\"/tag/whatthefoto\">Softwaretechnik-Projekt</a>

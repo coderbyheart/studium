@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: studitransfer-nur-noch-mit-personlichen-logins
 title: StudiTransfer nur noch mit persönlichen Logins
 date: '2010-05-26 21:39:31 +0200'
 tags:

@@ -3,29 +3,7 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<div class="leftcol">
-  <div class="latestpost">
-    <h2>
-      <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" rel="bookmark"
-         class="textimage textimage-h2">{{ post.title }}</a>
-    </h2>
-
-    {{ post.content }}
-  </div>
-</div>
-<div class="rightcol">
-  <div class="latestpost">
-    <p class="textimage nobottommargin">
-      &lt; {{ post.date | date: '%d. %B %Y, %H:%M Uhr' }}
-    </p>
-    <p><span class="textimage textimage-p">Tags:</span>
-      {% for tag in post.tags %}
-      <a href="/tag/{{ tag | slugify }}" class="textimage textimage-link" rel="tag">#{{ tag }}</a>
-      {% endfor %}
-    </p>
-  </div>
-</div>
-<hr>
+{% include post.html %}
 {% endfor %}
 
 <div class="navigation">

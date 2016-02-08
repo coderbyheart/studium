@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: webzugang-zu-den-teamdrive-dateien
 title: Webzugang zu den TeamDrive-Dateien
 date: '2010-01-30 13:52:32 +0100'
 tags:

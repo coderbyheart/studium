@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: bash-crashkurs-ws2010
 title: Bash-Crashkurs WS2010
 date: '2010-12-06 12:04:49 +0100'
 tags: []

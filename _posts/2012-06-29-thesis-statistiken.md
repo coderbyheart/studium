@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: thesis-statistiken
 title: 'Thesis: Statistiken'
 date: '2012-06-29 11:49:42 +0200'
 tags:

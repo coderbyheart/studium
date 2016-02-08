@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: relationemodelle-mit-xsl-erzeugen
 title: Relationemodelle mit XSL erzeugen
 excerpt: "Für unser <a href=\"/tag/Datenbanksysteme\">Datenbank-Projekt</a>
   habe ich ein XML-Stylesheet geschrieben, dass aus einer einfachen XML-Datei ein

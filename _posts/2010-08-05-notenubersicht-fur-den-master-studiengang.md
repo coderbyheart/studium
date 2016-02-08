@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: notenubersicht-fur-den-master-studiengang
 title: Notenübersicht für den Master-Studiengang
 date: '2010-08-05 17:53:11 +0200'
 tags:

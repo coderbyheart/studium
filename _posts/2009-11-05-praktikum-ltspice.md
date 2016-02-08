@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: praktikum-ltspice
 title: Praktikum LTSpice
 date: '2009-11-05 14:07:16 +0100'
 tags:

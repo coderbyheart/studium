@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: winter-unter-den-eichen-am-9-12-2010
 title: Winter unter den Eichen am 9.12.2010
 date: '2010-12-13 12:29:01 +0100'
 tags:

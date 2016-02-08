@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: themenbereiche-analysis-i-klausur-ws-20092010
 title: Themenbereiche Analysis I Klausur WS 2009/2010
 date: '2009-12-02 10:51:16 +0100'
 tags:

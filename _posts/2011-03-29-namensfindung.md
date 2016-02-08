@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: namensfindung
 title: Namensfindung
 excerpt: "Mit das schwierigste bisher war die Namensfindung — <em>Leuchttisch</em>
   hat momentan auch nur das Standing eines Arbeitssnamens, geht er doch etwas holprig

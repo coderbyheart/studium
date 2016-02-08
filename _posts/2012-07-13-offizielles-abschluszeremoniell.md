@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: offizielles-abschluszeremoniell
 title: Offizielles Abschlusszeremoniell
 date: '2012-07-13 22:01:54 +0200'
 tags:

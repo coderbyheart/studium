@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: din-symbole-fur-ltspice
 title: DIN-Symbole für LTspice
 date: '2009-10-15 17:28:20 +0200'
 tags:

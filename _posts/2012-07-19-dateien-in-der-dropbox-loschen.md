@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: dateien-in-der-dropbox-loschen
 title: Dateien in der Dropbox löschen
 date: '2012-07-19 09:31:09 +0200'
 tags: []

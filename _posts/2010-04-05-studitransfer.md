@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: studitransfer
 title: StudiTransfer
 date: '2010-04-05 21:16:35 +0200'
 tags:

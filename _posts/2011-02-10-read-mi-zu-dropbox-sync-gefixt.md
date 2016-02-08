@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: read-mi-zu-dropbox-sync-gefixt
 title: read.MI zu Dropbox sync gefixt
 date: '2011-02-10 19:31:55 +0100'
 tags:

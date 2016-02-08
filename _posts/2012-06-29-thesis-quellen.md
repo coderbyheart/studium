@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: thesis-quellen
 title: 'Thesis: Quellen'
 date: '2012-06-29 12:14:59 +0200'
 tags:

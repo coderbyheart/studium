@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: facherbelegung
 title: Fächerbelegung
 date: '2010-03-15 14:28:25 +0100'
 tags: []

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: studiengangsubergreifende-kooperationen
 title: Studiengangsübergreifende Kooperationen
 excerpt: "<a href=\"http://nowhere.coderbyheart.de/\"><img class=\"alignright size-full
   wp-image-937\" title=\"Nowhere\" src=\"/uploads/2012/02/nowhere.png\"

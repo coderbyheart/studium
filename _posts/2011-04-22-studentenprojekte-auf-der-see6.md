@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: studentenprojekte-auf-der-see6
 title: Studentenprojekte auf der see#6
 excerpt: "<a title=\"see conference\" rel=\"friend\" href=\"http://see-conference.org/\"><img
   class=\"alignright size-full wp-image-505\" title=\"see#6\" src=\"/uploads/2011/04/see6-logo.png\"

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: analysis-27-klausuren-in-zwei-tagen-korrigiert
 title: 'Analysis: 27 Klausuren in zwei Tagen korrigiert'
 date: '2010-02-20 15:25:15 +0100'
 tags:

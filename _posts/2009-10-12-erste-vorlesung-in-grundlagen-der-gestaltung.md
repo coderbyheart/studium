@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: erste-vorlesung-in-grundlagen-der-gestaltung
 title: Erste Vorlesung in Grundlagen der Gestaltung
 date: '2009-10-12 12:21:03 +0200'
 tags:

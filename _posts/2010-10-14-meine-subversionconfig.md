@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: meine-subversionconfig
 title: Meine .subversion/config
 date: '2010-10-14 16:15:17 +0200'
 tags:

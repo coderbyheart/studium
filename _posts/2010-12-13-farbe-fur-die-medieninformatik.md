@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: farbe-fur-die-medieninformatik
 title: Farbe für die Medieninformatik
 date: '2010-12-13 14:25:04 +0100'
 tags:

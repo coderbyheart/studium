@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: t-shirt-entwurf
 title: T-Shirt-Entwurf
 date: '2011-05-18 21:18:05 +0200'
 tags:

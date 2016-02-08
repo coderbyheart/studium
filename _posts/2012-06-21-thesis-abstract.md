@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: thesis-abstract
 title: 'Thesis: Abstract'
 date: '2012-06-21 11:17:29 +0200'
 tags:

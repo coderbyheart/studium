@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: thesis-kolloquium
 title: 'Thesis: Kolloquium'
 date: '2012-07-04 13:40:41 +0200'
 tags: []

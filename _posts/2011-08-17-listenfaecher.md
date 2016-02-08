@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: listenfaecher
 title: Listenfächer
 excerpt: "Im Bachelor-Studium hat man bis zum fünften Semester keine Wahl, der Lehrplan
   ist vorgegeben. Nach zwei Jahren haben wir zum ersten Mal die <em>freie</em> Wahl,

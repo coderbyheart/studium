@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: interviewpartner-gesucht
 title: Interviewpartner gesucht
 date: '2012-03-16 18:03:51 +0100'
 tags:

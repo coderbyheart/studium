@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: tipp-notices-in-postgresql-unterdrucken
 title: 'Tipp: Notices in PostgreSQL unterdrücken'
 date: '2011-01-15 21:56:25 +0100'
 tags:

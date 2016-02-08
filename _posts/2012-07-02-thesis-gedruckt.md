@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: thesis-gedruckt
 title: 'Thesis: gedruckt'
 date: '2012-07-02 13:20:14 +0200'
 tags:

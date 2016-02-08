@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: fachseminar
 title: Fachseminar
 date: '2012-02-03 18:00:01 +0100'
 tags:

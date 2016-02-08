@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: zwischenfazit-nach-einem-jahr
 title: Zwischenfazit nach einem Jahr
 excerpt: "Gut ein Jahr nach dem Beginn meines Studiums der Medieninformatik an der
   Hochschule RheinMain ist es Zeit für ein Résumé der ersten beiden Semester.\r\n"

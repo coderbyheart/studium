@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: zeitplan-fur-die-thesis
 title: Zeitplan für die Thesis
 date: '2012-04-05 09:32:45 +0200'
 tags: []

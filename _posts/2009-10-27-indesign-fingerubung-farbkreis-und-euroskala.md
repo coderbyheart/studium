@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: indesign-fingerubung-farbkreis-und-euroskala
 title: 'InDesign Fingerübung: Farbkreis und Euroskala'
 date: '2009-10-27 11:42:59 +0100'
 tags:

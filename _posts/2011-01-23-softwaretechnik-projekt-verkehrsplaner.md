@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: softwaretechnik-projekt-verkehrsplaner
 title: 'Softwaretechnik-Projekt: Verkehrsplaner'
 excerpt: "Eines der größten Projekt im bisherigen Studienverlauf war das Projekt im
   Kurs Softwaretechnik.\r\n<blockquote>Bitte entwickeln Sie einen konfigurierbaren

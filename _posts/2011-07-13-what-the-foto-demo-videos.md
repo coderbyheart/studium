@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: what-the-foto-demo-videos
 title: 'What The Foto: Demo-Videos'
 date: '2011-07-13 17:13:11 +0200'
 tags:

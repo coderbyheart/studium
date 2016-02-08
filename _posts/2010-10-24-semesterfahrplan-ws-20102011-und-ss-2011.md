@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: semesterfahrplan-ws-20102011-und-ss-2011
 title: Semesterfahrplan WS 2010/2011 und SS 2011
 date: '2010-10-24 13:13:48 +0200'
 tags: []

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: fhwmi-de-aktuell-nicht-zu-erreichen
 title: fhwmi.de aktuell nicht zu erreichen
 date: '2011-10-15 23:26:34 +0200'
 tags:

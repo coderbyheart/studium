@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: predator-google-doodle
 title: Predator Google Doodle
 date: '2011-05-05 18:00:29 +0200'
 tags:

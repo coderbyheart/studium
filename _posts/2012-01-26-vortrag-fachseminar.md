@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: vortrag-fachseminar
 title: Vortrag Fachseminar
 date: '2012-01-26 16:27:42 +0100'
 tags:

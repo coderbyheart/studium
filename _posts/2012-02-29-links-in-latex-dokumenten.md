@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: links-in-latex-dokumenten
 title: Links in LaTeX-Dokumenten
 date: '2012-02-29 12:24:57 +0100'
 tags:

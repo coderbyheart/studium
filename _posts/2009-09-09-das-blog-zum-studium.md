@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: das-blog-zum-studium
 title: Das Blog zum Studium
 date: '2009-09-09 15:53:36 +0200'
 tags:

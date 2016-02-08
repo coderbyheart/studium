@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: designdokument
 title: Designdokument
 date: '2011-05-03 01:46:35 +0200'
 tags:

@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: leuchttisch-entwicklertagebuch-03
 title: Leuchttisch Entwicklertagebuch 03
 excerpt: "Willkommen zur dritten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs,
   in der ich die Ereignisse in der Zeit von Montag, den 4. bis Sonntag, den 10. April
