@@ -15,7 +15,8 @@
     </p>
     <p><span class="textimage textimage-p">Tags:</span>
       {% for tag in post.tags %}
-      <a href="/tag/{{ tag | slugify }}" class="textimage textimage-link" rel="tag">#{{ tag }}</a>
+      {% assign slugtag = tag | slugify %}
+      <a href="{{ '/tag/' | append: slugtag | prepend: site.baseurl | prepend: site.url }}" class="textimage textimage-link" rel="tag">#{{ tag }}</a>
       {% endfor %}
     </p>
   </div>
