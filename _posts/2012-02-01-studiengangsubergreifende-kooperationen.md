@@ -23,7 +23,7 @@ excerpt: "<a href=\"http://nowhere.coderbyheart.de/\"><img class=\"alignright si
   auch außerhalb des Stundenplanes zusammen zu arbeiten möchte ich an dieser Stelle
   berichten.\r\n\r\n"
 wordpress_id: 911
-wordpress_url: http://studium.coderbyheart.de/?p=911
+wordpress_url: /?p=911
 date: '2012-02-01 23:55:59 +0100'
 date_gmt: '2012-02-01 21:55:59 +0100'
 categories:

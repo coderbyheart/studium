@@ -18,7 +18,7 @@ excerpt: "Das vierte Semester war nach meinem Gefühl das bisher anstrengendste 
   für diese Belastung war vor allem die große Menge an bewerteten Abgaben, die wir
   während des Semesters ausarbeiten mussten. In der Grafik habe ich diese mal zusammengestellt.\r\n\r\n"
 wordpress_id: 772
-wordpress_url: http://studium.coderbyheart.de/?p=772
+wordpress_url: /?p=772
 date: '2011-07-31 12:47:40 +0200'
 date_gmt: '2011-07-31 10:47:40 +0200'
 categories:

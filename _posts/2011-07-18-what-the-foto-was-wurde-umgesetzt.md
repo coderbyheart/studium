@@ -22,7 +22,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   Projekt im Studium, mit einigen bis dahin unbekannten Technologien: WPF mit C#,
   Messaging mit ActiveMQ und ein Java-Server (bisher haben wir immer GUIs gebaut).\r\n"
 wordpress_id: 647
-wordpress_url: http://studium.coderbyheart.de/?p=647
+wordpress_url: /?p=647
 date: '2011-07-18 10:57:05 +0200'
 date_gmt: '2011-07-18 08:57:05 +0200'
 categories:

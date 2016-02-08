@@ -12,7 +12,7 @@ author_login: m
 author_email: m@tacker.org
 author_url: http://tckr.cc/
 wordpress_id: 68
-wordpress_url: http://studium.coderbyheart.de/ieee-754-rechner-fur-flieskommazahlen
+wordpress_url: /ieee-754-rechner-fur-flieskommazahlen
 date: '2009-11-20 14:24:40 +0100'
 date_gmt: '2009-11-20 12:24:40 +0100'
 categories:

@@ -23,7 +23,7 @@ excerpt: "Gestern war ein ehemaliger <a href=\"http://krawall.de/\">Krawall</a>-
   — dass da keine Zeit mehr bleibt, um einer regelmäßigen Beschäftigung nach zu gehen
   versteht sich von selbst.\r\n"
 wordpress_id: 559
-wordpress_url: http://studium.coderbyheart.de/?p=559
+wordpress_url: /?p=559
 date: '2011-06-01 13:52:24 +0200'
 date_gmt: '2011-06-01 11:52:24 +0200'
 categories:

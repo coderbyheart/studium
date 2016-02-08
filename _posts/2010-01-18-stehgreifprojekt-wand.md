@@ -17,7 +17,7 @@ excerpt: "Ziel des Stehgreifprojektes, das um 10 Uhr begann war es, um 15:30 Uhr
   ein Gestaltungskonzept für eine aktuell recht lieblos gestaltete Wand im Fachbereich
   ausgearbeitet werden.\r\n"
 wordpress_id: 128
-wordpress_url: http://studium.coderbyheart.de/?p=128
+wordpress_url: /?p=128
 date: '2010-01-18 19:31:55 +0100'
 date_gmt: '2010-01-18 17:31:55 +0100'
 categories:

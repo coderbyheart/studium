@@ -25,7 +25,7 @@ excerpt: "<a title=\"see conference\" rel=\"friend\" href=\"http://see-conferenc
   hier sind die gezeigten Projekte ...\r\n\r\nWeitere Fotos von den Projekten und
   der Konferenz finden sich in meinem flickr-Album zur <a href=\"http://www.flickr.com/photos/tacker/sets/72157626429040647/\">see6</a>.\r\n"
 wordpress_id: 504
-wordpress_url: http://studium.coderbyheart.de/?p=504
+wordpress_url: /?p=504
 date: '2011-04-22 23:45:27 +0200'
 date_gmt: '2011-04-22 21:45:27 +0200'
 categories:

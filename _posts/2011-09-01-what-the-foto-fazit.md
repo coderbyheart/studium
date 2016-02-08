@@ -18,7 +18,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   ich darum geben, ein Gesamtfazit über den Verlauf des Projektes zu ziehen.\r\n\r\nHier
   sind dazu einige Ausschnitte:\r\n\r\n"
 wordpress_id: 638
-wordpress_url: http://studium.coderbyheart.de/?p=638
+wordpress_url: /?p=638
 date: '2011-09-01 13:42:08 +0200'
 date_gmt: '2011-09-01 11:42:08 +0200'
 categories:

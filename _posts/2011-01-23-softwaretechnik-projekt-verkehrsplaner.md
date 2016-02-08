@@ -18,7 +18,7 @@ excerpt: "Eines der größten Projekt im bisherigen Studienverlauf war das Proje
   Abzweige, Kurven usw) zu platzieren und auf dem entstehenden Straßennetz Fahrzeuge
   zu platzieren und dann fahren zu lassen.\r\n</blockquote>\r\n"
 wordpress_id: 412
-wordpress_url: http://studium.coderbyheart.de/?p=412
+wordpress_url: /?p=412
 date: '2011-01-23 20:13:27 +0100'
 date_gmt: '2011-01-23 18:13:27 +0100'
 categories:

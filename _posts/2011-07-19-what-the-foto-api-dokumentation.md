@@ -16,7 +16,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   alt=\"What The Foto?\" /></a>Ein nicht unerheblicher Teil meiner Arbeit am Projekt
   ist in die Erstellung einer übersichtlichen API-Dokumentation geflossen.\r\n"
 wordpress_id: 669
-wordpress_url: http://studium.coderbyheart.de/?p=669
+wordpress_url: /?p=669
 date: '2011-07-19 17:36:06 +0200'
 date_gmt: '2011-07-19 15:36:06 +0200'
 categories:

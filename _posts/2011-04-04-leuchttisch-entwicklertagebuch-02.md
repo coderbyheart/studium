@@ -15,7 +15,7 @@ excerpt: "<img class=\"alignright size-full wp-image-459\" title=\"Leuchttisch L
   src=\"http://studium.coderbyheart.de/wp-content/uploads/2011/03/Leuchttisch-250.png\"
   alt=\"\" width=\"250\" height=\"260\" />Willkommen zur zweiten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!\r\n"
 wordpress_id: 478
-wordpress_url: http://studium.coderbyheart.de/?p=478
+wordpress_url: /?p=478
 date: '2011-04-04 11:29:55 +0200'
 date_gmt: '2011-04-04 09:29:55 +0200'
 categories:

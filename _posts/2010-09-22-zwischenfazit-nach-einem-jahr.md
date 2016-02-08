@@ -14,7 +14,7 @@ author_url: http://tckr.cc/
 excerpt: "Gut ein Jahr nach dem Beginn meines Studiums der Medieninformatik an der
   Hochschule RheinMain ist es Zeit für ein Résumé der ersten beiden Semester.\r\n"
 wordpress_id: 291
-wordpress_url: http://studium.coderbyheart.de/?p=291
+wordpress_url: /?p=291
 date: '2010-09-22 11:39:46 +0200'
 date_gmt: '2010-09-22 09:39:46 +0200'
 categories:

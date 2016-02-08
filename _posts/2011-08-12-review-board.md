@@ -16,7 +16,7 @@ excerpt: "Für das <a href=\"http://studium.coderbyheart.de/tag/WhatTheFoto\">So
   Professor ist dann auf <a href=\"http://www.reviewboard.org/\">Review Board</a>
   gestoßen.\r\n"
 wordpress_id: 628
-wordpress_url: http://studium.coderbyheart.de/?p=628
+wordpress_url: /?p=628
 date: '2011-08-12 06:00:58 +0200'
 date_gmt: '2011-08-12 04:00:58 +0200'
 categories:

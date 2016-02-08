@@ -19,7 +19,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   Projektverlauf bekommen, da man in den gemeinsamen Meetings doch nicht so frei sprechen
   kann, wie unter vier Augen.\r\n"
 wordpress_id: 644
-wordpress_url: http://studium.coderbyheart.de/?p=644
+wordpress_url: /?p=644
 date: '2011-07-18 10:16:38 +0200'
 date_gmt: '2011-07-18 08:16:38 +0200'
 categories:

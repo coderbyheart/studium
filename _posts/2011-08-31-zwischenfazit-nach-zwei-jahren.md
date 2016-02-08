@@ -16,7 +16,7 @@ excerpt: "Es ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu zieh
   im letzten Jahr</a> möchte ich an dieser Stelle die Erlebnisse im vergangenen Jahr
   Revue passieren lassen.\r\n"
 wordpress_id: 808
-wordpress_url: http://studium.coderbyheart.de/?p=808
+wordpress_url: /?p=808
 date: '2011-08-31 11:27:18 +0200'
 date_gmt: '2011-08-31 09:27:18 +0200'
 categories:

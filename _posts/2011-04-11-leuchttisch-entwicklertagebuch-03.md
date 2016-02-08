@@ -15,7 +15,7 @@ excerpt: "Willkommen zur dritten Ausgabe des <em>Leuchttisch</em>-Entwicklertage
   in der ich die Ereignisse in der Zeit von Montag, den 4. bis Sonntag, den 10. April
   2011 beleuchten werde.\r\n"
 wordpress_id: 494
-wordpress_url: http://studium.coderbyheart.de/?p=494
+wordpress_url: /?p=494
 date: '2011-04-11 17:51:38 +0200'
 date_gmt: '2011-04-11 15:51:38 +0200'
 categories:

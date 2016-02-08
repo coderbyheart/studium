@@ -21,7 +21,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   Workflows von Trac</a> gewesen, da wir aber in der Hochschule keinen Einfluss auf
   die trac.ini haben, war das leider nicht möglich.\r\n"
 wordpress_id: 599
-wordpress_url: http://studium.coderbyheart.de/?p=599
+wordpress_url: /?p=599
 date: '2011-06-26 11:36:10 +0200'
 date_gmt: '2011-06-26 09:36:10 +0200'
 categories:

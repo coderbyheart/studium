@@ -13,7 +13,7 @@ author_email: m@tacker.org
 author_url: http://tckr.cc/
 excerpt: Der StudiTransfer ist nun auch via Dropbox verfügbar.
 wordpress_id: 270
-wordpress_url: http://studium.coderbyheart.de/?p=270
+wordpress_url: /?p=270
 date: '2010-06-28 10:47:39 +0200'
 date_gmt: '2010-06-28 08:47:39 +0200'
 categories:

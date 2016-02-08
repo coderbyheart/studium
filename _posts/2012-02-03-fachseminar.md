@@ -12,7 +12,7 @@ author_login: m
 author_email: m@tacker.org
 author_url: http://tckr.cc/
 wordpress_id: 918
-wordpress_url: http://studium.coderbyheart.de/?p=918
+wordpress_url: /?p=918
 date: '2012-02-03 18:00:01 +0100'
 date_gmt: '2012-02-03 16:00:01 +0100'
 categories:

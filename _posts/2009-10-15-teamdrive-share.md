@@ -21,7 +21,7 @@ excerpt: "Eigentlich stellen ja alle Dozenten ihre Folien oder Skripte als Downl
   der Space wird gesponsort von <a href=\"http://krawall.de/\">Krawall.de</a>.\r\n\r\nBitte
   schick mir deine E-Mail-Adresse, dann schick ich dir eine Einladung zum Space.\r\n"
 wordpress_id: 35
-wordpress_url: http://studium.coderbyheart.de/?p=35
+wordpress_url: /?p=35
 date: '2009-10-15 13:28:07 +0200'
 date_gmt: '2009-10-15 11:28:07 +0200'
 categories:

@@ -16,7 +16,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   alt=\"What The Foto?\" /></a>Eine meiner eher wenig nützlichen Ideen für das Projekt
   war eine Wiki-Seite, die die Tickets in Form eines Baumes auflistet.\r\n"
 wordpress_id: 703
-wordpress_url: http://studium.coderbyheart.de/?p=703
+wordpress_url: /?p=703
 date: '2011-08-05 06:00:32 +0200'
 date_gmt: '2011-08-05 04:00:32 +0200'
 categories:

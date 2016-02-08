@@ -17,7 +17,7 @@ excerpt: "Für unser <a href=\"http://studium.coderbyheart.de/tag/Datenbanksyste
   alt=\"Relationemodelle mit XSL erzeugen\" title=\"2010-12-31-115\" width=\"500\"
   class=\"alignnone size-full wp-image-402\" />\r\n"
 wordpress_id: 394
-wordpress_url: http://studium.coderbyheart.de/?p=394
+wordpress_url: /?p=394
 date: '2010-12-31 15:40:14 +0100'
 date_gmt: '2010-12-31 13:40:14 +0100'
 categories:

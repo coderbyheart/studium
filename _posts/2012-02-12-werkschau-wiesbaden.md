@@ -36,7 +36,7 @@ excerpt: "Am vergangenen Donnerstag fand die alljährliche <a href=\"http://www.
   für diese Gruppe verständlich aufzubereiten. Diese Personen werden einem im späteren
   Berufsleben nämlich täglich begegnen.\r\n\r\n"
 wordpress_id: 940
-wordpress_url: http://studium.coderbyheart.de/?p=940
+wordpress_url: /?p=940
 date: '2012-02-12 16:03:48 +0100'
 date_gmt: '2012-02-12 14:03:48 +0100'
 categories:

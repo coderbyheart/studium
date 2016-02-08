@@ -29,7 +29,7 @@ excerpt: "Im Bachelor-Studium hat man bis zum fünften Semester keine Wahl, der 
   src=\"http://farm7.static.flickr.com/6086/6052820104_4803a7f47f.jpg\" alt=\"Angebotene
   Listenfächer im Studium\" /></a>\r\n\r\n"
 wordpress_id: 788
-wordpress_url: http://studium.coderbyheart.de/?p=788
+wordpress_url: /?p=788
 date: '2011-08-17 12:00:49 +0200'
 date_gmt: '2011-08-17 10:00:49 +0200'
 categories:

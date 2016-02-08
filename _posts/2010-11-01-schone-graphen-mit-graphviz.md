@@ -16,7 +16,7 @@ excerpt: "<a href=\"http://www.graphviz.org/\">Graphviz</a> ist ein tolles Tool,
   für vielerlei Arten von Visualisierungen verwenden lassen &mdash; unter anderem
   auch in Automatentheorie und formale Sprachen ...\r\n"
 wordpress_id: 358
-wordpress_url: http://studium.coderbyheart.de/?p=358
+wordpress_url: /?p=358
 date: '2010-11-01 15:51:26 +0100'
 date_gmt: '2010-11-01 13:51:26 +0100'
 categories:

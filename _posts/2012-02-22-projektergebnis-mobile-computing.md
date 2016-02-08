@@ -20,7 +20,7 @@ excerpt: "<a href=\"https://market.android.com/details?id=de.hsrm.mi.mobcomp.y2k
   Einschränkungen, die in der Kombination aber zu gutem und überlegten Programmieren
   führen. \r\n"
 wordpress_id: 950
-wordpress_url: http://studium.coderbyheart.de/?p=950
+wordpress_url: /?p=950
 date: '2012-02-22 16:42:49 +0100'
 date_gmt: '2012-02-22 14:42:49 +0100'
 categories:

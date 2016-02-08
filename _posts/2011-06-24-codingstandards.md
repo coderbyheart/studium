@@ -21,7 +21,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   Unsere Cobertura-Checks finden sich <a href=\"http://studium.coderbyheart.de/svn/WTF/codingstandards/cobertura/\">hier</a>.
   \r\n"
 wordpress_id: 579
-wordpress_url: http://studium.coderbyheart.de/?p=579
+wordpress_url: /?p=579
 date: '2011-06-24 22:13:09 +0200'
 date_gmt: '2011-06-24 20:13:09 +0200'
 categories:

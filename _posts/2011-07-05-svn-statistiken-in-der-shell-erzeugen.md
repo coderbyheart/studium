@@ -16,7 +16,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   alt=\"What The Foto?\" /></a>Mit ein paar geschickt kombinierten Unix-Tools lassen
   sich aus einem SVN Commit-Log interessante Statistiken extrahieren.\r\n"
 wordpress_id: 608
-wordpress_url: http://studium.coderbyheart.de/?p=608
+wordpress_url: /?p=608
 date: '2011-07-05 10:15:50 +0200'
 date_gmt: '2011-07-05 08:15:50 +0200'
 categories:

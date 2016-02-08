@@ -17,7 +17,7 @@ excerpt: "Inzwischen hat unser Projekt auch seinen endgültigen Namen bekommen: 
   src=\"http://farm4.static.flickr.com/3474/5814023521_dfe04a40c8.jpg\" alt=\"What
   The Foto?\" /></a>\r\n"
 wordpress_id: 592
-wordpress_url: http://studium.coderbyheart.de/?p=592
+wordpress_url: /?p=592
 date: '2011-06-24 22:35:38 +0200'
 date_gmt: '2011-06-24 20:35:38 +0200'
 categories:

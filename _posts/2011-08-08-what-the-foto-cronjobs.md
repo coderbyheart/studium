@@ -20,7 +20,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   auch ohne VPN erreichbar sind, konnte ich so einfach von außen auf die XML-RPC-API
   von Trac zu greifen.\r\n"
 wordpress_id: 697
-wordpress_url: http://studium.coderbyheart.de/?p=697
+wordpress_url: /?p=697
 date: '2011-08-08 06:00:02 +0200'
 date_gmt: '2011-08-08 04:00:02 +0200'
 categories:

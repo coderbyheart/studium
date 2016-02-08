@@ -18,7 +18,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   Python3-Script</a> vorstellen, dass ich verwendet habe, um die Wiki-Seite mit den
   WorkPackages zu erstellen.\r\n"
 wordpress_id: 707
-wordpress_url: http://studium.coderbyheart.de/?p=707
+wordpress_url: /?p=707
 date: '2011-08-01 06:00:52 +0200'
 date_gmt: '2011-08-01 04:00:52 +0200'
 categories:
