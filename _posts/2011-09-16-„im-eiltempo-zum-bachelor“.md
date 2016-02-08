@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: %e2%80%9eim-eiltempo-zum-bachelor%e2%80%9c
 title: "„Im Eiltempo zum Bachelor“"
 date: '2011-09-16 11:08:49 +0200'
 tags: []
