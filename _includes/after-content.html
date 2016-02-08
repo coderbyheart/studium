@@ -14,6 +14,40 @@
 </ul>
 <div id="footerarea" class="noprint">
 
+  <div class="leftcol">
+    <h2 class="textimage textimage-h3white">Tags</h2>
+    <ul class="taglist">
+       {% for tag in site.data.tags %}
+      <li><a href="/tag/{{ tag | slugify }}" class="textimage textimage-pwhite" rel="tag">#{{ tag }}</a></li>
+      {% endfor %}
+      </ul>
+  </div>
+  <div class="rightcol">
+    <h2 class="textimage textimage-h2white">Links</h2>
+    <ul id="links">
+      <li class="linksection">
+        <h3 class="textimage textimage-h3white">Persönliches</h3>
+        <ul class="linklist">
+          <li><a href="http://m.tacker.org/" class="textimage textimage-pwhite" rel="me" title="Meine &quot;offizielle&quot; Homepage">Homepage</a></li><li><a href="http://www.linkedin.com/in/markustacker" class="textimage textimage-pwhite" rel="me" title="Markus Tacker bei LinkedIn">LinkedIn</a></li><li><a href="http://www.qype.com/people/tacker" class="textimage textimage-pwhite" rel="me" title="Markus Tacker bei Qype">Qype</a></li><li><a href="http://profiles.google.com/markus.tacker" class="textimage textimage-pwhite" rel="me" title="">Google+</a></li><li><a href="http://www.xing.com/profile/Markus_Tacker" class="textimage textimage-pwhite" rel="me" title="Markus Tacker bei XING">XING</a></li><li><a href="http://www.lastfm.de/user/m.tacker/" class="textimage textimage-pwhite" rel="me" title="Markus Tacker bei last.fm">last.fm</a></li>						</ul>
+      </li>
+      <li class="linksection">
+        <h3 class="textimage textimage-h3white">Studium</h3>
+        <ul class="linklist">
+          <li><a href="http://hs-rm.de/" class="textimage textimage-pwhite" rel="colleague" title="Hochschule RheinMain">HS RheinMain</a></li><li><a href="https://www.facebook.com/groups/hsrmmi/" class="textimage textimage-pwhite" rel="met colleague" title="Gruppe Medieninformatik Hochschule RheinMain bei Facebook">Medieninformatik auf Facebook</a></li><li><a href="http://www.fhwmi.de/" class="textimage textimage-pwhite" rel="me" title="">Forum</a></li><li><a href="https://github.com/tacker/hsrm-mi-wiki/wiki" class="textimage textimage-pwhite" rel="me" title="">Wiki</a></li><li><a href="https://plus.google.com/u/0/102833390881052901469" class="textimage textimage-pwhite" rel="friend met co-worker" title="">Medieninformatik auf Google+</a></li>						</ul>
+      </li>
+      <li class="linksection">
+        <h3 class="textimage textimage-h3white">Kommilitonen</h3>
+        <ul class="linklist">
+          <li><a href="http://sebadorn.de/" class="textimage textimage-pwhite" rel="colleague" title="">Sebastian Dorn</a></li><li><a href="http://www.innenspur.de/" class="textimage textimage-pwhite" rel="" title="">Kai Wolf</a></li><li><a href="http://svenhesse.de/" class="textimage textimage-pwhite" rel="friend met co-worker" title="">Sven Hesse</a></li>						</ul>
+      </li>
+      <li class="linksection">
+        <h3 class="textimage textimage-h3white">Andere</h3>
+        <ul class="linklist">
+          <li><a href="http://www.evejay.de/" class="textimage textimage-pwhite" rel="friend met neighbor" title="">EVE JAY.DEsign</a></li>						</ul>
+      </li>
+    </ul>
+  </div>
+
   <ul id="footer">
     <li><span class="textimage textimage-footer">(c) 2016</span> <a href="http://tckr.cc/" rel="author" class="textimage textimage-footer">Markus Tacker</a></li>
     <li><a href="/hinweise" class="textimage textimage-footer">Hinweise</a></li>
