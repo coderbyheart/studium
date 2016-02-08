@@ -12,7 +12,7 @@ author_login: m
 author_email: m@tacker.org
 author_url: http://tckr.cc/
 excerpt: "<img class=\"alignright size-full wp-image-459\" title=\"Leuchttisch Logo\"
-  src=\"http://studium.coderbyheart.de/wp-content/uploads/2011/03/Leuchttisch-250.png\"
+  src=\"/uploads/2011/03/Leuchttisch-250.png\"
   alt=\"\" width=\"250\" height=\"260\" />Willkommen zur zweiten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!\r\n"
 wordpress_id: 478
 wordpress_url: /?p=478
@@ -25,7 +25,7 @@ tags:
 - WhatTheFoto
 comments: []
 ---
-<p><img class="alignright size-full wp-image-459" title="Leuchttisch Logo" src="http://studium.coderbyheart.de/wp-content/uploads/2011/03/Leuchttisch-250.png" alt="" width="250" height="260" />Willkommen zur zweiten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!<br />
+<p><img class="alignright size-full wp-image-459" title="Leuchttisch Logo" src="/uploads/2011/03/Leuchttisch-250.png" alt="" width="250" height="260" />Willkommen zur zweiten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!<br />
 <a id="more"></a><a id="more-478"></a></p>
 <h3 class="textimage">GUI-Prototyping</h3>
 <p>In der zweiten Projektwoche haben die beiden Gruppen des Frontend-Teams sich mit der Entwicklung der GUI-Prototypen beschäftigt.</p>

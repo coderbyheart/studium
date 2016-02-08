@@ -30,7 +30,7 @@ comments: []
 <pre>{Meeting|+name\l+flags\l+creation_date\l}</pre>
 <p> <br />
 Das „\l“ bewirkt einen linksbündigen Umbruch (standardmäßig werden Labels in Knoten zentriert dargestellt).</p>
-<p><img class="alignnone size-medium wp-image-986" title="Klassendiagramm erstellt in GraphViz / Dot" src="http://studium.coderbyheart.de/wp-content/uploads/2012/02/models-500x472.png" alt="Klassendiagramm erstellt in GraphViz / Dot" width="500" height="472" /></p>
+<p><img class="alignnone size-medium wp-image-986" title="Klassendiagramm erstellt in GraphViz / Dot" src="/uploads/2012/02/models-500x472.png" alt="Klassendiagramm erstellt in GraphViz / Dot" width="500" height="472" /></p>
 <p>Der gesamte Quellcode für dieses Diagramm ist extrem kompakt und lässt sich prima aus Klassen-Informationen generieren:</p>
 <pre>digraph G {
 graph [ rankdir=BT ]

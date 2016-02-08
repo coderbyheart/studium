@@ -76,7 +76,7 @@ Anschließend folgen die <strong>komplexen Datentypen</strong>, die in der jewei
 </complextype>[/cc]<br />
 Wie man sehen kann, habe ich sehr viel Wert auf eine ausführliche Dokumentation der Elemente wert gelegt. Es gibt zu jedem Typ mindestens eine Beschreibung und dort wo es nötig ist auch ein Beispiel für den Inhalt.</p>
 <p>Aus diesen Angaben lässt sich dann eine schöne Übersicht mit allen in der Kommunikation verwendeten Datentypen erzeugen.</p>
-<p><a href="http://studium.coderbyheart.de/wp-content/uploads/2011/07/wtf-api-complextype.png"><img src="http://studium.coderbyheart.de/wp-content/uploads/2011/07/wtf-api-complextype-500x161.png" alt="" title="What The Foto API Docs Komplexer Datentyp" width="500" height="161" class="alignnone size-medium wp-image-677" /></a></p>
+<p><a href="/uploads/2011/07/wtf-api-complextype.png"><img src="/uploads/2011/07/wtf-api-complextype-500x161.png" alt="" title="What The Foto API Docs Komplexer Datentyp" width="500" height="161" class="alignnone size-medium wp-image-677" /></a></p>
 <p>Zu guter letzt werden die <strong>Schnittstellen-Methoden</strong> definiert. Diese sind zuerst thematisch gruppiert, in unserem Fall nach den Bezeichnungen der Entitäten aus dem Domänenmodell, z.B. Agency, Photo, Lightbox, User usw.</p>
 <p>Innerhalb dieser Gruppe werden dann die dort verfügbaren Methoden definiert. Es werden alle <strong>Parameter einer Anfrage</strong> beschrieben, wie bei den Datentypen ebenfalls mit ausführlicher Beschreibung und bei Bedarf einen Beispiel, sowie die <strong>Art der Antwort</strong>.</p>
 <p>Da wir mit ActiveMQ ein asynchrones Messaging verwenden und es auch Situationen gibt, in denen Ereignisse eintreten, ohne, dass der Client dazu eine Anfrage gestellt hat, werden auch bei manchen Methoden die dazugehörigen <strong>Notifications</strong> beschrieben.</p>
@@ -108,7 +108,7 @@ Wie man sehen kann, habe ich sehr viel Wert auf eine ausführliche Dokumentation
 </group>[/cc]</p>
 <p>Daraus lässt sich dann im Wiki eine übersichtliche Darstellung der Methode erzeugen. Durch die vorher definierten Datentypen und die korrekte Einhaltung der Reihenfolge in der XML-Datei, kann der Datentyp eines Parameters direkt mit seiner Definition verlinkt werden.</p>
 <p>Zusätzlich können noch mit Hilfe der Ticket-Query-Funktionen von Trac dazugehörige Tickets angezeigt werden.</p>
-<p><a href="http://studium.coderbyheart.de/wp-content/uploads/2011/07/wtf-api-lbenter.png"><img src="http://studium.coderbyheart.de/wp-content/uploads/2011/07/wtf-api-lbenter-500x257.png" alt="" title="What The Foto API Docs Lightbox Enter Methode" width="500" height="257" class="alignnone size-medium wp-image-680" /></a></p>
+<p><a href="/uploads/2011/07/wtf-api-lbenter.png"><img src="/uploads/2011/07/wtf-api-lbenter-500x257.png" alt="" title="What The Foto API Docs Lightbox Enter Methode" width="500" height="257" class="alignnone size-medium wp-image-680" /></a></p>
 <p>Die schwarze und weiße Fahne markiert übrigens, dass die Methode von Server und Client fertig implementiert ist. Diese Information ist dann auch in der Seitenleiste der Wiki-Seite (<a href="http://www.flickr.com/photos/tacker/5954159899/sizes/o/in/photostream/">die man hier in voller Größe bewundern kann</a>) einsehbar und bietet so einen schnellen Überblick über den Stand der Implementierung.</p>
 <h3 class="textimage">Python-Script zum Anlegen der Wiki-Seite</h3>
 <p>Die Wiki-Seite selber wird mit Hilfe eines Cronjobs über die XMLRPC-API von Trac regelmäßig erzeugt.</p>

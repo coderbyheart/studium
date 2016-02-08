@@ -13,7 +13,7 @@ author_email: m@tacker.org
 author_url: http://tckr.cc/
 excerpt: "Für unser <a href=\"http://studium.coderbyheart.de/tag/Datenbanksysteme\">Datenbank-Projekt</a>
   habe ich ein XML-Stylesheet geschrieben, dass aus einer einfachen XML-Datei ein
-  schönes Relationenmodell erzeugt.\r\n\r\n<img src=\"http://studium.coderbyheart.de/wp-content/uploads/2010/12/2010-12-31-115.png\"
+  schönes Relationenmodell erzeugt.\r\n\r\n<img src=\"/uploads/2010/12/2010-12-31-115.png\"
   alt=\"Relationemodelle mit XSL erzeugen\" title=\"2010-12-31-115\" width=\"500\"
   class=\"alignnone size-full wp-image-402\" />\r\n"
 wordpress_id: 394
@@ -28,7 +28,7 @@ tags:
 comments: []
 ---
 <p>Für unser <a href="http://studium.coderbyheart.de/tag/Datenbanksysteme">Datenbank-Projekt</a> habe ich ein XML-Stylesheet geschrieben, dass aus einer einfachen XML-Datei ein schönes Relationenmodell erzeugt.</p>
-<p><img src="http://studium.coderbyheart.de/wp-content/uploads/2010/12/2010-12-31-115.png" alt="Relationemodelle mit XSL erzeugen" title="2010-12-31-115" width="500" class="alignnone size-full wp-image-402" /><br />
+<p><img src="/uploads/2010/12/2010-12-31-115.png" alt="Relationemodelle mit XSL erzeugen" title="2010-12-31-115" width="500" class="alignnone size-full wp-image-402" /><br />
 <a id="more"></a><a id="more-394"></a></p>
 <h3 class="textimage">XML</h3>
 <p>[cc lang="xml"]<br />

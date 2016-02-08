@@ -12,7 +12,7 @@ author_login: m
 author_email: m@tacker.org
 author_url: http://tckr.cc/
 excerpt: "<a title=\"see conference\" rel=\"friend\" href=\"http://see-conference.org/\"><img
-  class=\"alignright size-full wp-image-505\" title=\"see#6\" src=\"http://studium.coderbyheart.de/wp-content/uploads/2011/04/see6-logo.png\"
+  class=\"alignright size-full wp-image-505\" title=\"see#6\" src=\"/uploads/2011/04/see6-logo.png\"
   alt=\"\" width=\"194\" height=\"58\" /></a>Auf der alljährlich in Wiesbaden stattfindenden
   <a href=\"http://see-conference.com/\"><em>see conference</em></a>, auf der sich
   alles um das Thema Visualisierung  von Informationen dreht, sind auch jedes Jahr
@@ -34,7 +34,7 @@ tags:
 - see6
 comments: []
 ---
-<p><a title="see conference" rel="friend" href="http://see-conference.org/"><img class="alignright size-full wp-image-505" title="see#6" src="http://studium.coderbyheart.de/wp-content/uploads/2011/04/see6-logo.png" alt="" width="194" height="58" /></a>Auf der alljährlich in Wiesbaden stattfindenden <a href="http://see-conference.com/"><em>see conference</em></a>, auf der sich alles um das Thema Visualisierung  von Informationen dreht, sind auch jedes Jahr Studenten mit ihren Arbeiten vertreten.</p>
+<p><a title="see conference" rel="friend" href="http://see-conference.org/"><img class="alignright size-full wp-image-505" title="see#6" src="/uploads/2011/04/see6-logo.png" alt="" width="194" height="58" /></a>Auf der alljährlich in Wiesbaden stattfindenden <a href="http://see-conference.com/"><em>see conference</em></a>, auf der sich alles um das Thema Visualisierung  von Informationen dreht, sind auch jedes Jahr Studenten mit ihren Arbeiten vertreten.</p>
 <p>Für Studenten bietet sich so die einmalige Möglichkeit, ihre Ideen und Konzepte vor fachlich versiertem Publikum zu präsentieren und mit dem ein oder anderen potentiellen Arbeitgeber Kontakte zu knüpfen. Ein Stand auf der <em>see</em> bedeutet noch dazu freien Eintritt zur Konferenz — alles in allem ein toller Anreiz auch für uns Medieninformatiker vielleicht schon im nächsten Jahr mit einem Projekt vertreten zu sein.</p>
 <p>Aber nun genug geredet, hier sind die gezeigten Projekte ...</p>
 <p>Weitere Fotos von den Projekten und der Konferenz finden sich in meinem flickr-Album zur <a href="http://www.flickr.com/photos/tacker/sets/72157626429040647/">see6</a>.<br />

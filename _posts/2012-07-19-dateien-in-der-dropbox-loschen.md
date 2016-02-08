@@ -20,5 +20,5 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://db.tt/NYepoPI"><img class="alignright size-full wp-image-553" title="Dropbox" src="http://studium.coderbyheart.de/wp-content/uploads/2011/05/logo.png" alt="Dropbox Logo" width="231" height="60" /></a><a href="http://studium.coderbyheart.de/kleines-update-am-read-mi-zu-dropbox-sync">Inzwischen wird verhindert</a>, dass Dateien aus der Dropbox gelöscht werden. Manchmal will man das aber doch und bis jetzt war es nur durch mich möglich. Jetzt habe ich eine Möglichkeit implementiert, mit der das jeder, der Zugriff auf die Dropbox hat, das selber machen kann.</p>
+<p><a href="http://db.tt/NYepoPI"><img class="alignright size-full wp-image-553" title="Dropbox" src="/uploads/2011/05/logo.png" alt="Dropbox Logo" width="231" height="60" /></a><a href="http://studium.coderbyheart.de/kleines-update-am-read-mi-zu-dropbox-sync">Inzwischen wird verhindert</a>, dass Dateien aus der Dropbox gelöscht werden. Manchmal will man das aber doch und bis jetzt war es nur durch mich möglich. Jetzt habe ich eine Möglichkeit implementiert, mit der das jeder, der Zugriff auf die Dropbox hat, das selber machen kann.</p>
 <p>Es genügt an den Dateinamen der Datei oder den Ordner ".delete" anzuhängen. Dann wird diese Datei durch einen stündlichen Cronjob gelöscht.</p>

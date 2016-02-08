@@ -29,6 +29,6 @@ comments: []
 - Korrigiere Syntaxfehler. Fix #4<br />
 - Neue Methode zum Rotieren von Bildern dazu. See #18 and #19</p>
 <p>Das Ergebnis sieht dann z.B. so aus:</p>
-<p><img class="alignnone size-full wp-image-448" title="CommitTicketUpdater" src="http://studium.coderbyheart.de/wp-content/uploads/2011/03/CommitTicketUpdater.png" alt="" width="507" height="234" /></p>
+<p><img class="alignnone size-full wp-image-448" title="CommitTicketUpdater" src="/uploads/2011/03/CommitTicketUpdater.png" alt="" width="507" height="234" /></p>
 <p>Der große Vorteil davon ist, dass man zu jedem Commit automatisch den Verweis auf das Ticket mit der Aufgabenbeschreibung hat und in jedem Ticket die Commit-History zu sehen ist.</p>
 <p>Mit der Mylyn-Integration von Trac bekommt man dann auch fremde Commits an seinen eigenen Tickets mit. </p>

@@ -28,7 +28,7 @@ comments: []
 <dt class="textimage textimage-p">Telefon</dt>
 <dd class="tel textimage textimage-p">(01 79) 6 67 88 59</dd>
 <dt class="textimage textimage-p">E-Mail</dt>
-<dd><img src="http://studium.coderbyheart.de/wp-content/uploads/2009/09/email.png" alt="E-Mail" title="E-Mail" width="101" height="22" class="alignnone size-full wp-image-15" /></dd>
+<dd><img src="/uploads/2009/09/email.png" alt="E-Mail" title="E-Mail" width="101" height="22" class="alignnone size-full wp-image-15" /></dd>
 </dl>
 </div>
 <p>Mein Cartoon-Avatar wurde erstellt von <a href="http://www.evejay.de/" rel="friend met neighbor">EVE JAY.DEsign</a>.</p>

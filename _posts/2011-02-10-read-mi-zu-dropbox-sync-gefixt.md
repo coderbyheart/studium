@@ -23,5 +23,5 @@ tags:
 - read.MI
 comments: []
 ---
-<p><a href="http://db.tt/NYepoPI"><img class="alignright size-full wp-image-553" title="Dropbox" src="http://studium.coderbyheart.de/wp-content/uploads/2011/05/logo.png" alt="Dropbox Logo" width="231" height="60" /></a>Ich habe eben noch einen kleinen Fehler im Script behoben, der bewirkt hat, dass ständig die kleinen ref_*-Dateien wieder in die Dropbox gesichert wurden.</p>
+<p><a href="http://db.tt/NYepoPI"><img class="alignright size-full wp-image-553" title="Dropbox" src="/uploads/2011/05/logo.png" alt="Dropbox Logo" width="231" height="60" /></a>Ich habe eben noch einen kleinen Fehler im Script behoben, der bewirkt hat, dass ständig die kleinen ref_*-Dateien wieder in die Dropbox gesichert wurden.</p>
 <p>Die brauchen wir da natürlich nicht ...</p>

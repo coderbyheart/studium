@@ -23,4 +23,4 @@ comments: []
 ---
 <p>Die aktuelle Aufgabe für Animation und Film ist es, ein Google Doodle in Flash zu animieren.</p>
 <p>Hier ist meines:</p>
-<p><a href="http://studium.coderbyheart.de/wp-content/uploads/2011/04/predator.swf" rel="flash[ar=275/95&w=275]">Predator Google Doodle</a></p>
+<p><a href="/uploads/2011/04/predator.swf" rel="flash[ar=275/95&w=275]">Predator Google Doodle</a></p>

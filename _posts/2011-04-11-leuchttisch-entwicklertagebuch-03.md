@@ -48,7 +48,7 @@ comments:
 <p>Das Backend-Team entwickelt neben dem Domänenmodell auch bereits das Konzept für die Schnittstellen — das alles natürlich im Austausch mit dem Frontend-Team, dass sich um die schriftliche Niederlegung der bereits im Feature-Brainstorming erarbeiteten Anwendungsfälle kümmert.</p>
 <p>Alle diese Arbeiten bilden die Grundlage für das Pflichtenheft, dass ebenfalls bereits in der Entstehung ist und nächste Woche abgegeben wird.</p>
 <h3 class="textimage" id="workpackages">Work packages</h3>
-<p><img class="alignright size-full wp-image-495" title="Grüne Ampel" src="http://studium.coderbyheart.de/wp-content/uploads/2011/04/ampel-gruen-150.png" alt="" width="55" height="150" />Ein alter bekannter aus dem letzten Semester ist auch wieder mit dabei: die Ampel. Sie kommt seit ein paar Tagen auf einer Seite im Wiki zum Einsatz, in der die Tickets in <a href="http://en.wikipedia.org/wiki/Work_package">work packages</a> gruppiert werden.</p>
+<p><img class="alignright size-full wp-image-495" title="Grüne Ampel" src="/uploads/2011/04/ampel-gruen-150.png" alt="" width="55" height="150" />Ein alter bekannter aus dem letzten Semester ist auch wieder mit dabei: die Ampel. Sie kommt seit ein paar Tagen auf einer Seite im Wiki zum Einsatz, in der die Tickets in <a href="http://en.wikipedia.org/wiki/Work_package">work packages</a> gruppiert werden.</p>
 <p>Diese Einteilung soll den Projektverlauf einfacher dokumentieren und bildet die Basis für meinen wöchentlichen Projektleiter-Bericht.</p>
 <p>Für Entwickler sind work packages ein gutes Mittel, um schnell einen Überblick über aktuell anstehende Aufgaben zu bekommen und sie gruppieren die vielen Tickets eines Meilensteins in mehrere kleinere, übersichtlichere Einheiten.</p>
 <p>Workpackages sind kein Feature von Trac sondern kombinieren nur geschickt verschieden Funktionen, die bereits zur Verfügung stehen. Aus meiner Dokumentation zu diesem Feature lässt sich die Funktion der Seite am besten erklären:</p>
@@ -60,7 +60,7 @@ comments:
 <p>Tickets ordnet man einem Workpackage zu, in dem man in den Keywords des Tickets das Keyword des Workpackages einträgt, z.B. <em>workpackage-115</em>.</p>
 <p>Die Kommentare, die in einem WorkPackage-Ticket hinterlassen werden, sind das Protokoll über den Verlauf des WorkPackages.</p></blockquote>
 <dl>
-<dt><img class="alignnone size-full wp-image-496" title="WorkPackage" src="http://studium.coderbyheart.de/wp-content/uploads/2011/04/Bildschirmfoto1.png" alt="" width="500" height="325" /></dt>
+<dt><img class="alignnone size-full wp-image-496" title="WorkPackage" src="/uploads/2011/04/Bildschirmfoto1.png" alt="" width="500" height="325" /></dt>
 <dd>Auszug aus der Wiki-Seite WorkPackages</dd>
 </dl>
 <h3 class="textimage">Probleme</h3>
