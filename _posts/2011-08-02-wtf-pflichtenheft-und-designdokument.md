@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'WTF: Pflichtenheft und Designdokument'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 775
-wordpress_url: /?p=775
 date: '2011-08-02 06:00:29 +0200'
-date_gmt: '2011-08-02 04:00:29 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Wer einen genauere technische Hintergrundinfos zu unserem Projekt haben möchte, der kann sich auch das Pflichtenheft (<a href="/svn/WTF/Pflichtenheft.pdf">PDF</a>, 59 Seiten) und das Designdokument (<a href="/svn/WTF/Designdokument.pdf">PDF</a>, 150 Seiten) durchlesen.</p>
 <p>Die beiden Dokumente sind die abgegeben Versionen, ohne die Korrektur durch den Professor.</p>

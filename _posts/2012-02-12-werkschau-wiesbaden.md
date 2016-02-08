@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Werkschau Wiesbaden
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Am vergangenen Donnerstag fand die alljährliche <a href=\"http://www.werkschau-wiesbaden.de/\">Werkschau
   Wiesbaden</a> statt, bei denen Studeenten der Fachbereiche Kommunikationsdesign
   und Innenarchitektur der Hochschule RheinMain ihre Abschlussarbeiten vorstellen.
@@ -35,15 +25,9 @@ excerpt: "Am vergangenen Donnerstag fand die alljährliche <a href=\"http://www.
   darum sich auch einmal die Lage von Nicht-Informatikern zu versetzen und ein Thema
   für diese Gruppe verständlich aufzubereiten. Diese Personen werden einem im späteren
   Berufsleben nämlich täglich begegnen.\r\n\r\n"
-wordpress_id: 940
-wordpress_url: /?p=940
 date: '2012-02-12 16:03:48 +0100'
-date_gmt: '2012-02-12 14:03:48 +0100'
-categories:
-- Uncategorized
 tags:
 - Studium
-comments: []
 ---
 <p>Am vergangenen Donnerstag fand die alljährliche <a href="http://www.werkschau-wiesbaden.de/">Werkschau Wiesbaden</a> statt, bei denen Studeenten der Fachbereiche Kommunikationsdesign und Innenarchitektur der Hochschule RheinMain ihre Abschlussarbeiten vorstellen. <a title="Studiengangsübergreifende Kooperationen" href="/studiengangsubergreifende-kooperationen">Da ich an einer Arbeit beteiligt war</a>, habe ich mich auf den kurzen Weg in den „Glaskasten“ gemacht und mir die „Show“ angesehen. Und in der Tat dient diese Veranstaltung dazu, Aufmerksamkeit auf die Fachbereiche und ihre Studenten zu lenken. Es wurde viel Aufwand bei der Dekoration der Räumlichkeiten gemacht, es gab eine Live-Band, Getränke und einen großen Besucherandrang. Gut 200 Gäste konnten sich in vielen Räumen auf zwei Etagen die Arbeiten ansehen und mit den Studenten ins Gespräch kommen.</p>
 <p>Eine vergleichbare Veranstaltung kann ich mir beim besten Willen in den Fachbereichen Allgemeine Informatik und Medieninformatik einfach nicht vor stellen. Der kulturelle Unterschied tritt gerade hier sehr stark zum Vorschein. Auch wenn ich damit die Klischees bediene, Gestalter haben schon allein aufgrund ihres Berufes eine größere Affinität zur <em>Kommunikation</em> und sehen die Selbstdarstellung, zu der so eine Veranstaltung die perfekte Gelegenheit ist, als Teil ihres Berufsbildes an. Bei Informatikern wird man diese Bereitschaft zur öffentlicher Präsentation kaum finden. Ich finde aber, dass es keinem Absolventen schaden würde, als Teil der Abschlussarbeit einen kleinen Messestand zu konzipieren und sein Thema auf einem jährlichen Termin zu präsentieren — sicherlich können einige Themen nicht so <em>sexy</em> präsentiert werden, wie Abschlussarbeiten von Designer aber darum geht es gar nicht, sondern darum sich auch einmal die Lage von Nicht-Informatikern zu versetzen und ein Thema für diese Gruppe verständlich aufzubereiten. Diese Personen werden einem im späteren Berufsleben nämlich täglich begegnen.</p>

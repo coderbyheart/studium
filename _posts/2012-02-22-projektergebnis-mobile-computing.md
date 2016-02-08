@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Projektergebnis Mobile Computing
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"https://market.android.com/details?id=de.hsrm.mi.mobcomp.y2k11grp04\"><img
   class=\"size-medium wp-image-951\" title=\"GroupMood im Android Market\" src=\"/uploads/2012/02/logo-500x137.png\"
   alt=\"GroupMood\" width=\"500\" height=\"137\" /></a>\r\n\r\nDas Projektergebnis
@@ -19,17 +9,11 @@ excerpt: "<a href=\"https://market.android.com/details?id=de.hsrm.mi.mobcomp.y2k
   mehr als vier Monaten nicht erwartet hatte. Die Platform vereinigt nämlich einige
   Einschränkungen, die in der Kombination aber zu gutem und überlegten Programmieren
   führen. \r\n"
-wordpress_id: 950
-wordpress_url: /?p=950
 date: '2012-02-22 16:42:49 +0100'
-date_gmt: '2012-02-22 14:42:49 +0100'
-categories:
-- Uncategorized
 tags:
 - android
 - mobile computing
 - mobile
-comments: []
 ---
 <p><a href="https://market.android.com/details?id=de.hsrm.mi.mobcomp.y2k11grp04"><img class="size-medium wp-image-951" title="GroupMood im Android Market" src="/uploads/2012/02/logo-500x137.png" alt="GroupMood" width="500" height="137" /></a></p>
 <p>Das Projektergebnis des Kurses Mobile Computing ist neben einer App auch die Erkenntnis, dass die Entwicklung unter Android wirklich Spaß macht — etwas das ich zu Beginn des Kurses vor etwas mehr als vier Monaten nicht erwartet hatte. Die Platform vereinigt nämlich einige Einschränkungen, die in der Kombination aber zu gutem und überlegten Programmieren führen.<br />

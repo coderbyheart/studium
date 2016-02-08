@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'What the Foto: Cronjobs'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"
   alt=\"What The Foto?\" /></a>Für einige Aufgaben habe ich Cronjobs eingesetzt, da
@@ -19,16 +9,10 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   Cronjobs von meinem eigenen Webserver aus ausgeführt habe.\r\n\r\nDa aber die Trac-Installationen
   auch ohne VPN erreichbar sind, konnte ich so einfach von außen auf die XML-RPC-API
   von Trac zu greifen.\r\n"
-wordpress_id: 697
-wordpress_url: /?p=697
 date: '2011-08-08 06:00:02 +0200'
-date_gmt: '2011-08-08 04:00:02 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Für einige Aufgaben habe ich Cronjobs eingesetzt, da sich diese anders nicht sinnvoll realisieren ließen.</p>
 <p>Leider ist auf unserem hochschul-internen Server (linux001) kein Python 3 installiert, so dass ich die Cronjobs von meinem eigenen Webserver aus ausgeführt habe.</p>

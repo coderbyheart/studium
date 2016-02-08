@@ -1,27 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Achievement unlocked!
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 860
-wordpress_url: /?p=860
 date: '2011-10-28 11:40:57 +0200'
-date_gmt: '2011-10-28 09:40:57 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
 - Studium
-comments: []
 ---
 <p>Im Studium zählen am Ende des Semesters eigentlich nur die Noten &mdash; deswegen ist es etwas besonderes wenn man für seine Arbeit auch einmal eine etwas andere Belohnung erhält:</p>
 <p><img src="/uploads/2011/10/jbsw-pokal.jpg" alt="Jöndhard Biffel Softwaretechnik Wanderpreis" width="500" height="520" class="alignnone size-full wp-image-861" /></p>

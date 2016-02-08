@@ -1,46 +1,14 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Stehgreifprojekt: Wand'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Ziel des Stehgreifprojektes, das um 10 Uhr begann war es, um 15:30 Uhr zu
   einem vorgegebenen Thema zwei Vorschläge zu präsentieren.\r\nZusammen mit Philipp
   Siegmund und Lars Stratenwerth nahmen wir uns dem Thema Wand an. Hierbei sollte
   ein Gestaltungskonzept für eine aktuell recht lieblos gestaltete Wand im Fachbereich
   ausgearbeitet werden.\r\n"
-wordpress_id: 128
-wordpress_url: /?p=128
 date: '2010-01-18 19:31:55 +0100'
-date_gmt: '2010-01-18 17:31:55 +0100'
-categories:
-- Uncategorized
 tags:
 - Gestaltung
-comments:
-- id: 33
-  author: Seba
-  author_email: seba_dorn@gmx.de
-  author_url: http://sebadorn.de
-  date: '2010-01-18 20:29:02 +0100'
-  date_gmt: '2010-01-18 18:29:02 +0100'
-  content: Das gäbe sicherliche eine Image-Steigerung für die FH. Studenten, die ihre
-    Wände selbst programmieren.
-- id: 34
-  author: Markus Tacker
-  author_email: m@tacker.org
-  author_url: /
-  date: '2010-01-21 09:29:57 +0100'
-  date_gmt: '2010-01-21 07:29:57 +0100'
-  content: Auf jeden Fall! Stell dir vor wie cool das wäre, da selber für zu entwickeln!
-    Fehlt nur noch der Sponsor.
 ---
 <p>Ziel des Stehgreifprojektes, das um 10 Uhr begann war es, um 15:30 Uhr zu einem vorgegebenen Thema zwei Vorschläge zu präsentieren.<br />
 Zusammen mit Philipp Siegmund und Lars Stratenwerth nahmen wir uns dem Thema Wand an. Hierbei sollte ein Gestaltungskonzept für eine aktuell recht lieblos gestaltete Wand im Fachbereich ausgearbeitet werden.<br />

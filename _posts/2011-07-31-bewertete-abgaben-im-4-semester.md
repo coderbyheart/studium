@@ -1,59 +1,15 @@
 ---
 layout: post
-status: publish
-published: true
 title: Bewertete Abgaben im vierten Semester
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Das vierte Semester war nach meinem Gefühl das bisher anstrengendste des
   Studiums. Allein für das <a href=\"/tag/whatthefoto\">Softwaretechnik-Projekt</a>
   habe ich im Schnitt 16 Stunden pro Woche investiert — dank Zeiterfassung mit <a
   href=\"http://mite.yo.lk/\">mite</a> kann ich das ziemlich genau sagen.\r\n\r\nGrund
   für diese Belastung war vor allem die große Menge an bewerteten Abgaben, die wir
   während des Semesters ausarbeiten mussten. In der Grafik habe ich diese mal zusammengestellt.\r\n\r\n"
-wordpress_id: 772
-wordpress_url: /?p=772
 date: '2011-07-31 12:47:40 +0200'
-date_gmt: '2011-07-31 10:47:40 +0200'
-categories:
-- Uncategorized
 tags:
 - Studium
-comments:
-- id: 151
-  author: Zwischenfazit nach zwei Jahren &laquo; Markus studiert!
-  author_email: ''
-  author_url: /zwischenfazit-nach-zwei-jahren
-  date: '2011-08-31 11:27:23 +0200'
-  date_gmt: '2011-08-31 09:27:23 +0200'
-  content: "[...] einmal heftiger wurde dann das vierte Semester. Wie bereits berichtet hatten
-    wir zum Teil sechs bewertete Abgaben parallel laufen, und Fächer wie Rechnernetze
-    und [...]"
-- id: 172
-  author: Praxisprojekt &laquo; Markus studiert!
-  author_email: ''
-  author_url: /praxisprojekt
-  date: '2012-02-05 11:54:34 +0100'
-  date_gmt: '2012-02-05 09:54:34 +0100'
-  content: "[...] eine schöne Abwechslung zum Kurs-Marathon im Studium, bei dem man
-    sich auf viel zu viele Themen gleichzeitig konzentrieren muss. Hier kann man sich
-    [...]"
-- id: 282
-  author: Mein Fazit zum Medieninformatik-Studium &laquo; Markus studiert!
-  author_email: ''
-  author_url: /mein-fazit-zum-medieninformatik-studium
-  date: '2012-08-16 23:05:08 +0200'
-  date_gmt: '2012-08-16 21:05:08 +0200'
-  content: "[...] sehr leicht die teilweise absurd hohe Arbeitsbelastung verschmerzen.
-    Die Erinnerung an die Zeit, in der zum Teil sechs Abgaben gleichzeitig bearbeitet
-    werden mussten, ist dann auch nur noch ein fahles Echo und man freut sich eher,
-    dass man es trotz allem doch zu [...]"
 ---
 <p>Das vierte Semester war nach meinem Gefühl das bisher anstrengendste des Studiums. Allein für das <a href="/tag/whatthefoto">Softwaretechnik-Projekt</a> habe ich im Schnitt 16 Stunden pro Woche investiert — dank Zeiterfassung mit <a href="http://mite.yo.lk/">mite</a> kann ich das ziemlich genau sagen.</p>
 <p>Grund für diese Belastung war vor allem die große Menge an bewerteten Abgaben, die wir während des Semesters ausarbeiten mussten. In der Grafik habe ich diese mal zusammengestellt.</p>

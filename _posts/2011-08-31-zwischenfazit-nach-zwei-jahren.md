@@ -1,65 +1,14 @@
 ---
 layout: post
-status: publish
-published: true
 title: Zwischenfazit nach zwei Jahren
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Es ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen.
   Wie <a href=\"/zwischenfazit-nach-einem-jahr\">bereits
   im letzten Jahr</a> möchte ich an dieser Stelle die Erlebnisse im vergangenen Jahr
   Revue passieren lassen.\r\n"
-wordpress_id: 808
-wordpress_url: /?p=808
 date: '2011-08-31 11:27:18 +0200'
-date_gmt: '2011-08-31 09:27:18 +0200'
-categories:
-- Uncategorized
 tags:
 - allgemein
 - Noten
-comments:
-- id: 153
-  author: 'Zwischenfazit des zweiten Studienjahres :: [|] m.tacker.org'
-  author_email: ''
-  author_url: http://m.tacker.org/blog/2928.zwischenfazit-des-zweiten-studienjahres.html
-  date: '2011-08-31 14:15:36 +0200'
-  date_gmt: '2011-08-31 12:15:36 +0200'
-  content: "[...] meinem Studiumsblog studium.coderbyheart.de habe ich ein ausführliches
-    Zwischenfazit des zweiten Studienjahres geschrieben.    31 08 [...]"
-- id: 278
-  author: 'Thesis: 1,0 &laquo; Markus studiert!'
-  author_email: ''
-  author_url: /thesis-10
-  date: '2012-07-17 12:08:29 +0200'
-  date_gmt: '2012-07-17 10:08:29 +0200'
-  content: "[...] Note vorliegt, werde ich das letzte Jahr meines Studiums zusammenfassung
-    &ndash; wie in den beiden Jahren zuvor. Auf diese Retrospektive, vor allem im
-    Hinblick auf meine Erwartungen von vor drei Jahren, [...]"
-- id: 283
-  author: Mein Fazit zum Medieninformatik-Studium &laquo; Markus studiert!
-  author_email: ''
-  author_url: /mein-fazit-zum-medieninformatik-studium
-  date: '2012-08-17 12:13:12 +0200'
-  date_gmt: '2012-08-17 10:13:12 +0200'
-  content: "[...] bereits nach dem ersten und dem zweiten Jahr geschehen, ziehe ich
-    nach mittlerweile drei Jahren Studienzeit ein Abschlussfazit zu meinem [...]"
-- id: 286
-  author: 'Re: Erststudium mit 29 dank Aufstiegsstipendium :: [|] m.tacker.org'
-  author_email: ''
-  author_url: http://m.tacker.org/blog/3180.re-erststudium-mit-29-dank-aufstiegsstipendium.html
-  date: '2012-08-17 12:42:13 +0200'
-  date_gmt: '2012-08-17 10:42:13 +0200'
-  content: "[...] für komplexe Systeme und abstrakte Konzepte aber für die eigentlichen
-    Lerninhalte konnte ich ab dem dritten Semester eigentlich nichts mehr durch Vorwissen
-    beisteuern. Ich hoffe auch, dass mir einige Inhalte aufgrund meiner Ausbildung
-    und meiner Berufserfahrung [...]"
 ---
 <p>Es ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen. Wie <a href="/zwischenfazit-nach-einem-jahr">bereits im letzten Jahr</a> möchte ich an dieser Stelle die Erlebnisse im vergangenen Jahr Revue passieren lassen.<br />
 <a id="more"></a><a id="more-808"></a></p>

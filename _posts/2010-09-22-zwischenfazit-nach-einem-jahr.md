@@ -1,62 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Zwischenfazit nach einem Jahr
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Gut ein Jahr nach dem Beginn meines Studiums der Medieninformatik an der
   Hochschule RheinMain ist es Zeit für ein Résumé der ersten beiden Semester.\r\n"
-wordpress_id: 291
-wordpress_url: /?p=291
 date: '2010-09-22 11:39:46 +0200'
-date_gmt: '2010-09-22 09:39:46 +0200'
-categories:
-- Uncategorized
 tags:
 - allgemein
 - Noten
-comments:
-- id: 55
-  author: 'Ein Jahr Studium ist rum: Zeit für ein Zwischenfazit :: [|] m.tacker.org'
-  author_email: ''
-  author_url: http://m.tacker.org/blog/2634.ein-jahr-studium-ist-rum-zeit-fur-ein-zwischenfazit.html
-  date: '2010-09-22 11:43:51 +0200'
-  date_gmt: '2010-09-22 09:43:51 +0200'
-  content: "[...] meinem Studiumsblog studium.coderbyheart.de habe ich ein ausführliches
-    Zwischenfazit des ersten Studienjahres geschrieben.    22 09 [...]"
-- id: 152
-  author: Zwischenfazit nach zwei Jahren &laquo; Markus studiert!
-  author_email: ''
-  author_url: /zwischenfazit-nach-zwei-jahren
-  date: '2011-08-31 11:33:21 +0200'
-  date_gmt: '2011-08-31 09:33:21 +0200'
-  content: "[...] ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen.
-    Wie bereits im letzten Jahr möchte ich an dieser Stelle die Erlebnisse im vergangenen
-    Jahr Revue passieren [...]"
-- id: 277
-  author: 'Thesis: 1,0 &laquo; Markus studiert!'
-  author_email: ''
-  author_url: /thesis-10
-  date: '2012-07-17 12:05:51 +0200'
-  date_gmt: '2012-07-17 10:05:51 +0200'
-  content: "[...] letzte Note vorliegt, werde ich das letzte Jahr meines Studiums
-    zusammenfassung &ndash; wie in den beiden Jahren zuvor. Auf diese Retrospektive,
-    vor allem im Hinblick auf meine Erwartungen von vor drei [...]"
-- id: 281
-  author: Mein Fazit zum Medieninformatik-Studium &laquo; Markus studiert!
-  author_email: ''
-  author_url: /mein-fazit-zum-medieninformatik-studium
-  date: '2012-08-16 23:04:48 +0200'
-  date_gmt: '2012-08-16 21:04:48 +0200'
-  content: "[...] bereits nach dem ersten und dem zweiten Jahr geschehen, ziehe ich
-    nach mittlerweile drei Jahren Studienzeit ein [...]"
 ---
 <p><a title="Zu flickr-Set Studium" href="http://www.flickr.com/photos/tacker/sets/72157623378309778"><img src="http://farm5.static.flickr.com/4066/4345409757_efcef85f98_b.jpg" alt="Medien Informatik Wiesbaden" width="500" /></a></p>
 <p>Gut ein Jahr nach dem Beginn meines Studiums der <a href="http://www.hs-rm.de/dcsm/studiengaenge/medieninformatik-bsc/index.html">Medieninformatik an der Hochschule RheinMain</a> ist es Zeit für ein Résumé der ersten beiden Semester.<br />

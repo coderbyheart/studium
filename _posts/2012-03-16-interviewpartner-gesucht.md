@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Interviewpartner gesucht
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 1007
-wordpress_url: /?p=1007
 date: '2012-03-16 18:03:51 +0100'
-date_gmt: '2012-03-16 16:03:51 +0100'
-categories:
-- Uncategorized
 tags:
 - Thesis
-comments: []
 ---
 <p>Für meine Bachelor-Thesis suche ich Menschen, die beruflich mit Texten in Medienprodukten (Website, Katalog, TV, etc) zu tun haben - vor allem aus der Gruppe der Kunden von Dienstleistern oder der Texter / Übersetzer fehlen mir noch Interviewpartner.</p>
 <p>Ich spendiere ein Mittagessen deiner Wahl hier im RheinMain-Gebiet – Ruhm und Ehre sind inklusive!</p>

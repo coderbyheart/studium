@@ -1,32 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Thesis: Quellen'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 1072
-wordpress_url: /?p=1072
 date: '2012-06-29 12:14:59 +0200'
-date_gmt: '2012-06-29 10:14:59 +0200'
-categories:
-- Uncategorized
 tags:
 - Thesis
-comments:
-- id: 262
-  author: 'Thesis: Statistiken &laquo; Markus studiert!'
-  author_email: ''
-  author_url: /thesis-statistiken
-  date: '2012-06-29 12:15:45 +0200'
-  date_gmt: '2012-06-29 10:15:45 +0200'
-  content: "[...] 9 zitierte Literaturquellen [...]"
 ---
 <p>Hier die Liste der verwendeten Quellen meiner <a href="/thesis-abstract">Thesis</a>.</p>
 <h3>Literatur</h3>

@@ -1,24 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Thesis: Kolloquium'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 1091
-wordpress_url: /?p=1091
 date: '2012-07-04 13:40:41 +0200'
-date_gmt: '2012-07-04 11:40:41 +0200'
-categories:
-- Uncategorized
 tags: []
-comments: []
 ---
 <p>Im Kolloquium wird die <a href="/thesis-abstract" title="Thesis: Abstract">Thesis</a> in Form einer Präsentation vorgestellt. Hierbei halte ich einen etwa 30 Minuten langen Vortrag über die Ergebnisse der Thesis und stelle anschließende den entwickelten Prototyp vor.</p>
 <dl>

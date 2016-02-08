@@ -1,48 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Mein Fazit zum Medieninformatik-Studium
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 1126
-wordpress_url: /?p=1126
 date: '2012-08-16 23:02:52 +0200'
-date_gmt: '2012-08-16 21:02:52 +0200'
-categories:
-- Uncategorized
 tags:
 - Studium
-comments:
-- id: 284
-  author: 'Ich bin jetzt Akademiker :: [|] m.tacker.org'
-  author_email: ''
-  author_url: http://m.tacker.org/blog/3175.ich-bin-jetzt-akademiker.html
-  date: '2012-08-17 12:15:39 +0200'
-  date_gmt: '2012-08-17 10:15:39 +0200'
-  content: "[...] ganzen Artikel kannst Du hier lesen.    17 08 [...]"
-- id: 295
-  author: Deine kleine Schwester
-  author_email: Claudia.Tacker@gmail.com
-  author_url: http://www.piechnik-kreativ.de
-  date: '2012-09-09 17:01:27 +0200'
-  date_gmt: '2012-09-09 15:01:27 +0200'
-  content: |-
-    Lieber Bruder,
-    wir möchten Dir noch mal ganz offiziell herzlich zu Deinem tollen Studienabschluss gratulieren. An dieser Stelle muss ich mal wieder neidvoll anerkennen: Du bist und bleibst einfach ein Streber ;-) Aber das hast Du Dir voll und ganz verdient! Mach weiter so und verfolge Deine Ziele. Wir wünschen Dir weiterhin viel Erfolg bei all Deinen Projekten. Viele liebe Grüße, Claudi&amp;Olli
-- id: 296
-  author: Alexander Stroh
-  author_email: stroh.alexander@gmail.com
-  author_url: ''
-  date: '2012-09-09 19:10:10 +0200'
-  date_gmt: '2012-09-09 17:10:10 +0200'
-  content: Herzlichen Glückwunsch! :-)
 ---
 <p><em>Wie bereits nach dem <a href="/zwischenfazit-nach-einem-jahr" title="Zwischenfazit nach einem Jahr">ersten</a> und dem <a href="/zwischenfazit-nach-zwei-jahren" title="Zwischenfazit nach zwei Jahren">zweiten</a> Jahr geschehen, ziehe ich nach mittlerweile drei Jahren Studienzeit ein Abschlussfazit zu meinem Medieninformatik-Studium.</em></p>
 <p>In den letzten beiden Semestern konnte ich endlich so studieren, wie man es sich eigentlich vorstellt: man hat Zeit, sich mit den anstehenden Themen <em>ausführlich</em> zu beschäftigen. Das Betriebspraktikum habe ich bereits direkt nach Ende des vierten Semesters begonnen und Ende Oktober abgeschlossen. So hatte ich bereits kurz nach Beginn des fünften Semesters nur noch drei Kurse: die große Wahlpflicht-Liste mit 10 CP, in der ich Mobile Computing belegt habe, das Fachseminar und Unternehmensgründung für die zweite Wahlpflicht-Liste. Zusätzlich musste ich mich noch um die Wiederholung der Computer-Grafik-Klausur kümmern. Der Umfang an gleichzeitig zu behandelnden Themen war also sehr überschaubar und dementsprechend war ich in der Lage, mich zwei bis drei Tage pro Woche <em>nur</em> um Mobile Computing zu kümmern &ndash; ein Fach, dass mir <a href="/projektergebnis-mobile-computing">extrem viel Spaß</a> gemacht hat. Dieser Zeitaufwand für ein einzelnes Fach wäre in den vorigen Semestern undenkbar gewesen. Wie auch in den anderen beiden Fächern kam eine zweite Besonderheit hinzu: zum ersten Mal nach zwei Jahren hatte ich eine <em>Wahl</em>. Ich konnte mir die Fächer <a href="/listenfaecher">in einem gewissen Rahmen</a> frei aussuchen. Und Stoff, den man lernt, weil man ihn lernen möchte, lernt man natürlich um so leichter. Mobile Computing und das Fachseminar sind zudem keine <em>Lernfächer</em> mit einer Klausur am Ende, sondern werden anhand der Leistung, die man über das Semester verteilt erbringt bewertet.</p>

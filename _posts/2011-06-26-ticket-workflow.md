@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Ticket-Workflow
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"
   alt=\"What The Foto?\" /></a>Nachfolgend findet sich der offizielle Ticket-Workflow
@@ -20,16 +10,10 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   besser wäre natürlich die Verwendung des <a href=\"http://trac.edgewall.org/wiki/TracWorkflow\">eigenen
   Workflows von Trac</a> gewesen, da wir aber in der Hochschule keinen Einfluss auf
   die trac.ini haben, war das leider nicht möglich.\r\n"
-wordpress_id: 599
-wordpress_url: /?p=599
 date: '2011-06-26 11:36:10 +0200'
-date_gmt: '2011-06-26 09:36:10 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Nachfolgend findet sich der offizielle Ticket-Workflow für unser Projekt.</p>
 <p>Einige der Angaben sind <a href="http://trac.edgewall.org/">Trac</a>-spezifisch, können aber leicht auch in anderen Tools zur Softwareverwaltung implementiert werden.</p>

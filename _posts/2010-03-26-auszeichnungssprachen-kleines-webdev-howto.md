@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Auszeichnungssprachen: Kleines Webdev Howto'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 213
-wordpress_url: /?p=213
 date: '2010-03-26 14:16:59 +0100'
-date_gmt: '2010-03-26 12:16:59 +0100'
-categories:
-- Uncategorized
 tags:
 - Auszeichnungssprachen
-comments: []
 ---
 <p>Da viele Kommilitonen in diesen Tagen das ersten Mal in Kontakt mit HTML, CSS & Co. treten, möchte ich an dieser Stelle ein paar Einsteiger-Tipps los werden ...</p>
 <h3 class="textimage">notepad.exe ist KEIN Editor</h3>

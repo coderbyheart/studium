@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Codingstandards
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"
   alt=\"What The Foto?\" /></a>Für das Projekt haben wir uns auf Codingstandards geeignet,
@@ -20,36 +10,10 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   wir auch den C#-Quellcode des Frontendteams zumindest rudimentären Tests unterziehen.
   Unsere Cobertura-Checks finden sich <a href=\"/svn/WTF/codingstandards/cobertura/\">hier</a>.
   \r\n"
-wordpress_id: 579
-wordpress_url: /?p=579
 date: '2011-06-24 22:13:09 +0200'
-date_gmt: '2011-06-24 20:13:09 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments:
-- id: 116
-  author: Ticket-Workflow « Markus studiert!
-  author_email: ''
-  author_url: /ticket-workflow
-  date: '2011-06-26 11:36:20 +0200'
-  date_gmt: '2011-06-26 09:36:20 +0200'
-  content: "[...] Codingstandards /codingstandards [...]"
-- id: 8678
-  author: Adiolercx
-  author_email: i8wurgtjw4b@outlook.com
-  author_url: http://www.facebook.com/profile.php?id=100003469770211
-  date: '2015-09-21 18:34:48 +0200'
-  date_gmt: '2015-09-21 16:34:48 +0200'
-  content: Ich weidf nicht was Sie vor haben aber Landlord macht nur Spadf da es direkt
-    mit Foursquare zaeummsn le4uft. Ansonsten macht das Spiel wenig Sinn wenn man
-    es nur mit denen Spielen kann die das Spiel auch wirklich spielen. Reallife Monopoly
-    gab es schon vorher aber eben ohne direkte Foursquare Anbindung. Mal schauen was
-    sie vor haben. Das Landlord sicher hier und da Bugs etc. hat ist unbestritten
-    aber das Spiel an sich ist lustig. Sollten die Quoter aber auch irgendwie die
-    Foursquare API anzapfen we4re es interessant :)
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Für das Projekt haben wir uns auf Codingstandards geeignet, die wir mit Hilfe von <a href="http://cobertura.sourceforge.net/">Cobertura</a> auch in Eclipse und in der Continuous Integration überprüfen.</p>
 <p>Da mit Cobertura auch Tests auf Basis von regulären Ausdrücken ausgeführt werden können, konnten wir auch den C#-Quellcode des Frontendteams zumindest rudimentären Tests unterziehen. Unsere Cobertura-Checks finden sich <a href="/svn/WTF/codingstandards/cobertura/">hier</a>.<br />

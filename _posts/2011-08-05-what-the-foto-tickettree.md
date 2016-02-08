@@ -1,29 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'What The Foto: TicketTree'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"
   alt=\"What The Foto?\" /></a>Eine meiner eher wenig nützlichen Ideen für das Projekt
   war eine Wiki-Seite, die die Tickets in Form eines Baumes auflistet.\r\n"
-wordpress_id: 703
-wordpress_url: /?p=703
 date: '2011-08-05 06:00:32 +0200'
-date_gmt: '2011-08-05 04:00:32 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
-comments: []
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Eine meiner eher wenig nützlichen Ideen für das Projekt war eine Wiki-Seite, die die Tickets in Form eines Baumes auflistet.<br />
 <a id="more"></a><a id="more-703"></a><br />

@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Listenfächer
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Im Bachelor-Studium hat man bis zum fünften Semester keine Wahl, der Lehrplan
   ist vorgegeben. Nach zwei Jahren haben wir zum ersten Mal die <em>freie</em> Wahl,
   in drei Listenfächern MI, GI und W jeweils ein Modul zu wählen.\r\n\r\nLeider wird
@@ -28,15 +18,9 @@ excerpt: "Im Bachelor-Studium hat man bis zum fünften Semester keine Wahl, der 
   class=\"textimage\">Übersicht</h3>\r\n<a href=\"http://www.flickr.com/photos/tacker/6052820104/in/photostream/\"><img
   src=\"http://farm7.static.flickr.com/6086/6052820104_4803a7f47f.jpg\" alt=\"Angebotene
   Listenfächer im Studium\" /></a>\r\n\r\n"
-wordpress_id: 788
-wordpress_url: /?p=788
 date: '2011-08-17 12:00:49 +0200'
-date_gmt: '2011-08-17 10:00:49 +0200'
-categories:
-- Uncategorized
 tags:
 - Studium
-comments: []
 ---
 <p>Im Bachelor-Studium hat man bis zum fünften Semester keine Wahl, der Lehrplan ist vorgegeben. Nach zwei Jahren haben wir zum ersten Mal die <em>freie</em> Wahl, in drei Listenfächern MI, GI und W jeweils ein Modul zu wählen.</p>
 <p>Leider wird in Großteil der vorgesehen Module nicht angeboten, insofern ist die Wahl auch nicht mehr ganz so frei — gerade wenn man sich die Liste W ansieht ...</p>

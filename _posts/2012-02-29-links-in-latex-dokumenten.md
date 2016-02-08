@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Links in LaTeX-Dokumenten
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 973
-wordpress_url: /?p=973
 date: '2012-02-29 12:24:57 +0100'
-date_gmt: '2012-02-29 10:24:57 +0100'
-categories:
-- Uncategorized
 tags:
 - fachseminar
 - latex
-comments: []
 ---
 <p>Mit dem Paket <em>hyperref</em> wird es in LaTeX möglich Sprungmarken zu aktivieren, so dass man in einem PDF-Reader direkt zu zu Kapiteln oder Seiten springen kann. Das gleiche Paket ermöglicht auch Hyperlinks zu externen URLs zu definieren.</p>
 <p>Die Verwendung des Pakets mit den Standardeinstellungen hat aber eine unschöne Eigenschaft: Links werden mit hässlichen Kästen markiert.</p>

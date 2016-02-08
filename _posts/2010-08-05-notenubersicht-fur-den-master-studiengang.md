@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Notenübersicht für den Master-Studiengang
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 279
-wordpress_url: /?p=279
 date: '2010-08-05 17:53:11 +0200'
-date_gmt: '2010-08-05 15:53:11 +0200'
-categories:
-- Uncategorized
 tags:
 - Noten
 - Master
-comments: []
 ---
 <p>Diese Tabelle liefert eine Übersicht über die notwendigen Noten im Studium (das zu 75% in die Endnote zählt) und der Bachelor-Thesis (die zu 25% zählt) um eine Abschluss-Note von 2.0 zu erreichen, die für ein Masterstudium in Informatik an der Hochschule RheinMain <a href="http://www.hs-rm.de/de/dcsm/studiengaenge/informatik-msc/index.html?type=0&amp;F=0">erforderlich ist</a>.</p>
 <table class="normal statistics">

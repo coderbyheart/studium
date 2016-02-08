@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Praxisprojekt
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 925
-wordpress_url: /?p=925
 date: '2012-02-05 11:54:32 +0100'
-date_gmt: '2012-02-05 09:54:32 +0100'
-categories:
-- Uncategorized
 tags:
 - Praktikum
 - Praxisprojekt
-comments: []
 ---
 <p><a href="http://adticket.de/"><img class="alignright size-medium wp-image-927" title="AD ticket GmbH" src="/uploads/2012/02/adticket-web-500x109.jpg" alt="AD ticket GmbH" width="200" /></a>Im fünften Semester ist im Studium das Betriebspraktikum vorgesehen. Ich habe versucht mich darum zu drücken, da ich vor Beginn meines Studiums bereits sechs Jahre in Vollzeit als Anwendungsentwickler gearbeitet habe, doch leider wurde der Antrag vom Prüfungsausschuss nicht anerkannt. Die Begründung lautet dass man ohne die vorgeschriebenen 70 Creditpoints nicht über nötige Wissen verfügt, die für das Studium relevanten Inhalte  im Praxisprojekt zu erfassen.</p>
 <p>Obwohl ich seit Herbst 2010 bei <a href="http://s-v.de/">Scholz &amp; Volkmer</a> als Developer arbeitete, entschied ich mich für das Praxisprojekt eine technisch anspruchsvollere Aufgabe zu suchen. Bei <a href="http://adticket.de/">AD ticket</a> in Frankfurt hatte ich Anfang 2010 schon einmal als freier Entwickler gearbeitet und Mitte das Jahres hat sich ein neues Projekt auf <a href="http://symfony.com/">Symfony2</a>-Basis aufgetan, an dem ich mich dann zusammen mit den Kollegen vor Ort austoben konnte.</p>

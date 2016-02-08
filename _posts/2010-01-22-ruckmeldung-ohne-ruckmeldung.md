@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rückmeldung ohne Rückmeldung
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 145
-wordpress_url: /?p=145
 date: '2010-01-22 14:52:14 +0100'
-date_gmt: '2010-01-22 12:52:14 +0100'
-categories:
-- Uncategorized
 tags:
 - allgemein
-comments: []
 ---
 <p>Sowas hab ich ja noch nie gemacht, aber die <a href="http://www.hs-rm.de/hochschule/bewerben-studieren/infos-fuer-studierende/rueckmeldung/index.html">Infos für Studierende zur Rückmeldung</a> auf den Seiten unserer Uni sind da klipp und klar:</p>
 <blockquote><p>Die Rückmeldung erfolgt durch die fristgerechte Überweisung des Semesterbeitrages bis zum 15.01.2010</p></blockquote>

@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Studiengangsübergreifende Kooperationen
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://nowhere.coderbyheart.de/\"><img class=\"alignright size-full
   wp-image-937\" title=\"Nowhere\" src=\"/uploads/2012/02/nowhere.png\"
   alt=\"\" width=\"500\" height=\"500\" /></a>\r\n\r\nAus vielen Gesprächen weiß ich,
@@ -22,24 +12,9 @@ excerpt: "<a href=\"http://nowhere.coderbyheart.de/\"><img class=\"alignright si
   Teilnehmer in Kursen der höheren Semester kennen lernen. Über eine Möglichkeit,
   auch außerhalb des Stundenplanes zusammen zu arbeiten möchte ich an dieser Stelle
   berichten.\r\n\r\n"
-wordpress_id: 911
-wordpress_url: /?p=911
 date: '2012-02-01 23:55:59 +0100'
-date_gmt: '2012-02-01 21:55:59 +0100'
-categories:
-- Uncategorized
 tags:
 - Studium
-comments:
-- id: 175
-  author: Werkschau Wiesbaden &laquo; Markus studiert!
-  author_email: ''
-  author_url: /werkschau-wiesbaden
-  date: '2012-02-12 16:03:51 +0100'
-  date_gmt: '2012-02-12 14:03:51 +0100'
-  content: "[...] und Innenarchitektur der Hochschule RheinMain ihre Abschlussarbeiten
-    vorstellen. Da ich an einer Arbeit beteiligt war, habe ich mich auf den kurzen
-    Weg in den „Glaskasten“ gemacht und mir die [...]"
 ---
 <p><a href="http://nowhere.coderbyheart.de/"><img class="alignright size-full wp-image-937" title="Nowhere" src="/uploads/2012/02/nowhere.png" alt="" width="500" height="500" /></a></p>
 <p>Aus vielen Gesprächen weiß ich, dass die meisten Studenten es bedauern, dass es kaum Austausch zwischen den einzelnen Fachbereichen gibt. Gerade als kleiner Studiengang, der noch dazu inhaltlich ein Crossover-Studiengang zwischen Informatik und Gestaltung ist, macht sich dieser Umstand besonders deutlich bemerkbar. Um so interessanter ist es dann, wenn es zu diesen seltenen Ereignissen kommt. Am häufigsten wird man "fremde" Studenten als Teilnehmer in Kursen der höheren Semester kennen lernen. Über eine Möglichkeit, auch außerhalb des Stundenplanes zusammen zu arbeiten möchte ich an dieser Stelle berichten.</p>

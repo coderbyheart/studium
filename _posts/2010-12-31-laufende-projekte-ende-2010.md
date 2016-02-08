@@ -1,28 +1,12 @@
 ---
 layout: post
-status: publish
-published: true
 title: Laufende Projekte Ende 2010
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 390
-wordpress_url: /?p=390
 date: '2010-12-31 15:26:20 +0100'
-date_gmt: '2010-12-31 13:26:20 +0100'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - C
 - Datenbanksysteme
 - Betriebssysteme
-comments: []
 ---
 <p>In der kurzen freien Zeit zwischen den Jahren muss ich mich gleich um drei Projekte kümmern:</p>
 <ul>

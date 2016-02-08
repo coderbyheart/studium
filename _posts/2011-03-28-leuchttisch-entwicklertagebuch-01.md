@@ -1,29 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Leuchttisch Entwicklertagebuch 01
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<img class=\"alignright size-full wp-image-459\" title=\"Leuchttisch Logo\"
   src=\"/uploads/2011/03/Leuchttisch-250.png\"
   alt=\"\" width=\"250\" height=\"260\" />Willkommen zur ersten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!\r\n"
-wordpress_id: 457
-wordpress_url: /?p=457
 date: '2011-03-28 22:13:03 +0200'
-date_gmt: '2011-03-28 20:13:03 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p><img class="alignright size-full wp-image-459" title="Leuchttisch Logo" src="/uploads/2011/03/Leuchttisch-250.png" alt="" width="250" height="260" />Willkommen zur ersten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!<br />
 <a id="more"></a><a id="more-457"></a></p>

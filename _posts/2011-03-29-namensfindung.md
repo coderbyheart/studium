@@ -1,29 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Namensfindung
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Mit das schwierigste bisher war die Namensfindung — <em>Leuchttisch</em>
   hat momentan auch nur das Standing eines Arbeitssnamens, geht er doch etwas holprig
   über die Lippen.\r\n\r\nEin paar Alternativen haben wir auch gesammelt:\r\n<ul>\r\n\t<li>photon</li>\r\n\t<li>foton</li>\r\n\t<li>flockfoto</li>\r\n\t<li>Fotokiste</li>\r\n\t<li>Leuchttisch</li>\r\n\t<li>bonfoto</li>\r\n\t<li>horafoto</li>\r\n\t<li>phosho</li>\r\n</ul>\r\n"
-wordpress_id: 475
-wordpress_url: /?p=475
 date: '2011-03-29 11:23:14 +0200'
-date_gmt: '2011-03-29 09:23:14 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p>Mit das schwierigste bisher war die Namensfindung — <em>Leuchttisch</em> hat momentan auch nur das Standing eines Arbeitssnamens, geht er doch etwas holprig über die Lippen.</p>
 <p>Ein paar Alternativen haben wir auch gesammelt:</p>

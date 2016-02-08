@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Mit commit-Kommentaren Tickets aktualisieren
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 447
-wordpress_url: /?p=447
 date: '2011-03-21 20:22:56 +0100'
-date_gmt: '2011-03-21 18:22:56 +0100'
-categories:
-- Uncategorized
 tags:
 - svn
 - trac
-comments: []
 ---
 <p>Seit heute ist in allen Trac-Installationen auf <em>scm.mi.hs-rm.de</em> das <a href="http://trac.edgewall.org/wiki/CommitTicketUpdater">Commit Ticket Updater Plugin</a> aktiviert.</p>
 <p>Trac erkennt dadurch eine bestimmte Syntax in den Kommentaren, die  auf der Wiki-Seite des Plugins erläutert ist, und fügt einen Verweis in den Kommentaren zum jeweiligen Ticket ein.</p>

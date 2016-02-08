@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: Studieren und Arbeiten?
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Gestern war ein ehemaliger <a href=\"http://krawall.de/\">Krawall</a>-Kollege
   bei mir, um ein paar Infos zum Studium ein zu holen. Insbesondere stand für ihn
   die Frage der Vereinbarkeit von Studium und Berufstätigkeit im Vordergrund — die
@@ -22,42 +12,9 @@ excerpt: "Gestern war ein ehemaliger <a href=\"http://krawall.de/\">Krawall</a>-
   Semester dauern.\r\n\r\nIn Summe kommt man so bestimmt auf eine 40 bis 60 Stundenwoche
   — dass da keine Zeit mehr bleibt, um einer regelmäßigen Beschäftigung nach zu gehen
   versteht sich von selbst.\r\n"
-wordpress_id: 559
-wordpress_url: /?p=559
 date: '2011-06-01 13:52:24 +0200'
-date_gmt: '2011-06-01 11:52:24 +0200'
-categories:
-- Uncategorized
 tags:
 - Studium
-comments:
-- id: 141
-  author: Bewertete Abgaben im 4. Semester &laquo; Markus studiert!
-  author_email: ''
-  author_url: /bewertete-abgaben-im-4-semester
-  date: '2011-07-31 12:47:45 +0200'
-  date_gmt: '2011-07-31 10:47:45 +0200'
-  content: "[...] Aufwand erledigt werden. Das ist natürlich für einen selber überhaupt
-    nicht befriedigend, aber, wie schon hier beschrieben, ist das Studium ein Vollzeitstudium
-    und jetzt im vierten Semester macht sich das voll [...]"
-- id: 155
-  author: "„Im Eiltempo zum Bachelor“ &laquo; Markus studiert!"
-  author_email: ''
-  author_url: /%e2%80%9eim-eiltempo-zum-bachelor%e2%80%9c
-  date: '2011-09-16 11:08:51 +0200'
-  date_gmt: '2011-09-16 09:08:51 +0200'
-  content: "[...] Artikel über die Studiendauer von Bachelor-Studiengängen, mit der
-    ich mich ja auch schon einmal beschäftigt [...]"
-- id: 285
-  author: 'Re: Erststudium mit 29 dank Aufstiegsstipendium :: [|] m.tacker.org'
-  author_email: ''
-  author_url: http://m.tacker.org/blog/3180.re-erststudium-mit-29-dank-aufstiegsstipendium.html
-  date: '2012-08-17 12:41:15 +0200'
-  date_gmt: '2012-08-17 10:41:15 +0200'
-  content: "[...] aber höchstens noch in den ersten beiden Semestern. Danach ist der
-    Stundenplan so voll, dass man nebenbei nur Arbeiten kann, wenn man nicht vor hat,
-    das Studium in der Regelstudienzeit abzuschließ....  Wenn ich mir den Studienplan
-    so anschaue, sehe ich im Bachelor-Studiengang keine Herausforderung, [...]"
 ---
 <p>Gestern war ein ehemaliger <a href="http://krawall.de/">Krawall</a>-Kollege bei mir, um ein paar Infos zum Studium ein zu holen. Insbesondere stand für ihn die Frage der Vereinbarkeit von Studium und Berufstätigkeit im Vordergrund — die ich nach inzwischen dreieinhalb Semesters ganz gut beantworten kann: es ist <em>quasi</em> unmöglich.</p>
 <p>Zum einen ist der Studienplan auf ein Vollzeitstudium ausgelegt. Das bedeutet, in der Regel ist man in der Woche locker 30 Stunden in der Uni vor Ort, und wird zusätzlich noch mit Praktikumsaufgaben, Abgaben, Testaten und Projekten auf Trab gehalten, die je nach Fach mal über 2 Wochen gehen, oder auch das ganze Semester dauern.</p>

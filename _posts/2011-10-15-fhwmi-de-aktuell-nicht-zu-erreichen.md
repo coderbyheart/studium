@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: fhwmi.de aktuell nicht zu erreichen
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 849
-wordpress_url: /?p=849
 date: '2011-10-15 23:26:34 +0200'
-date_gmt: '2011-10-15 21:26:34 +0200'
-categories:
-- Uncategorized
 tags:
 - allgemein
-comments: []
 ---
 <p>Seit gestern ist die Domain fhwmi.de über die öffentlichen DNS-Server nicht mehr auflösbar.</p>
 <p>Über die Nameserver des Domain-Registrars joker ist sie korrekt konfiguriert.</p>

@@ -1,42 +1,17 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'What The Foto: WorkPackages'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"
   alt=\"What The Foto?\" /></a>Über die Einführung der WorkPackages hatte ich ja schon
   an anderer Stelle gesprochen.\r\n\r\nHier möchte ich noch kurz <a href=\"/svn/WTF/workpackages/WorkPackages.py\">das
   Python3-Script</a> vorstellen, dass ich verwendet habe, um die Wiki-Seite mit den
   WorkPackages zu erstellen.\r\n"
-wordpress_id: 707
-wordpress_url: /?p=707
 date: '2011-08-01 06:00:52 +0200'
-date_gmt: '2011-08-01 04:00:52 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
 - python
-comments:
-- id: 145
-  author: 'What the Foto: Cronjobs &laquo; Markus studiert!'
-  author_email: ''
-  author_url: /what-the-foto-cronjobs
-  date: '2011-08-08 06:03:07 +0200'
-  date_gmt: '2011-08-08 04:03:07 +0200'
-  content: "[...] Script geschrieben, die spezielle Wiki-Seiten für unser Projekt
-    erzeugen, z.B. die Seite mit den Workpackages, dem TicketTree oder die API-Dokumentation.
-    Hierfür hatte ich Cronjobs, die die jeweiligen [...]"
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Über die Einführung der WorkPackages hatte ich ja schon an anderer Stelle gesprochen.</p>
 <p>Hier möchte ich noch kurz <a href="/svn/WTF/workpackages/WorkPackages.py">das Python3-Script</a> vorstellen, dass ich verwendet habe, um die Wiki-Seite mit den WorkPackages zu erstellen.<br />

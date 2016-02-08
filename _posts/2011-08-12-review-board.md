@@ -1,30 +1,14 @@
 ---
 layout: post
-status: publish
-published: true
 title: Review Board
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Für das <a href=\"/tag/WhatTheFoto\">Softwaretechnik-Projekt</a>
   hatte ich nach eine Möglichkeit gesucht, komfortable Code-Reviews zu machen. Mein
   Professor ist dann auf <a href=\"http://www.reviewboard.org/\">Review Board</a>
   gestoßen.\r\n"
-wordpress_id: 628
-wordpress_url: /?p=628
 date: '2011-08-12 06:00:58 +0200'
-date_gmt: '2011-08-12 04:00:58 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p>Für das <a href="/tag/WhatTheFoto">Softwaretechnik-Projekt</a> hatte ich nach eine Möglichkeit gesucht, komfortable Code-Reviews zu machen. Mein Professor ist dann auf <a href="http://www.reviewboard.org/">Review Board</a> gestoßen.<br />
 <a id="more"></a><a id="more-628"></a></p>

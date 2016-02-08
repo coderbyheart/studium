@@ -1,16 +1,6 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'What The Foto: Was wurde umgesetzt?'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"
   alt=\"What The Foto?\" /></a>Wie schon erwähnt, fanden es die meisten Team-Mitglieder
@@ -21,16 +11,10 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   Funktionen gar nicht abschätzen, denn für das Gesamte Team war es das erste große
   Projekt im Studium, mit einigen bis dahin unbekannten Technologien: WPF mit C#,
   Messaging mit ActiveMQ und ein Java-Server (bisher haben wir immer GUIs gebaut).\r\n"
-wordpress_id: 647
-wordpress_url: /?p=647
 date: '2011-07-18 10:57:05 +0200'
-date_gmt: '2011-07-18 08:57:05 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Wie schon erwähnt, fanden es die meisten Team-Mitglieder schaden, dass wir auf einige <em>coolen</em> Features verzichten mussten, weil wir die Komplexität einiger Funktionen unterschätzt hatten. Allerdings muss man zum einen einmal betrachten, welche Features wir vom ursprünglichen Plan trotzdem umsetzen konnten — schließlich konnten wir zu Beginn des Projektes den Aufwand für die einzelnen Funktionen gar nicht abschätzen, denn für das Gesamte Team war es das erste große Projekt im Studium, mit einigen bis dahin unbekannten Technologien: WPF mit C#, Messaging mit ActiveMQ und ein Java-Server (bisher haben wir immer GUIs gebaut).<br />
 <a id="more"></a><a id="more-647"></a></p>

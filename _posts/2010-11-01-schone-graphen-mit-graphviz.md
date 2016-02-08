@@ -1,31 +1,15 @@
 ---
 layout: post
-status: publish
-published: true
 title: Schöne Graphen mit GraphViz
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.graphviz.org/\">Graphviz</a> ist ein tolles Tool, mit
   dessen Hilfe man mit wenig Quellcode dynamische Graphen erzeugen kann, die sich
   für vielerlei Arten von Visualisierungen verwenden lassen &mdash; unter anderem
   auch in Automatentheorie und formale Sprachen ...\r\n"
-wordpress_id: 358
-wordpress_url: /?p=358
 date: '2010-11-01 15:51:26 +0100'
-date_gmt: '2010-11-01 13:51:26 +0100'
-categories:
-- Uncategorized
 tags:
 - AFS
 - graphviz
 - dot
-comments: []
 ---
 <p><a href="http://www.graphviz.org/">Graphviz</a> ist ein tolles Tool, mit dessen Hilfe man mit wenig Quellcode dynamische Graphen erzeugen kann, die sich für vielerlei Arten von Visualisierungen verwenden lassen &mdash; unter anderem auch in Automatentheorie und formale Sprachen ...<br />
 <a id="more"></a><a id="more-358"></a></p>

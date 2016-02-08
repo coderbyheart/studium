@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Softwaretechnik Marketing Flyer
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 566
-wordpress_url: /?p=566
 date: '2011-06-23 12:54:54 +0200'
-date_gmt: '2011-06-23 10:54:54 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments: []
 ---
 <p>Das ist der Marketing-Flyer für unser Softwaretechnik-Projekt, der Teil der Auslieferung der Software in gut einer Woche ist.</p>
 <p>Hier stelle ich die Vorteile unserer Lösung kurz und knapp vor &mdash; so als würden wir das System real vertreiben wollen.</p>

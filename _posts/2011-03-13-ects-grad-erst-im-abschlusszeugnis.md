@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: ECTS-Grad erst im Abschlusszeugnis
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 438
-wordpress_url: /?p=438
 date: '2011-03-13 10:51:19 +0100'
-date_gmt: '2011-03-13 08:51:19 +0100'
-categories:
-- Uncategorized
 tags:
 - Noten
-comments: []
 ---
 <p>Den <a title="European Credit Transfer System" href="http://de.wikipedia.org/wiki/European_Credit_Transfer_System"><abbr title="European Credit Transfer System">ECTS</abbr>-Grad</a> zu Prüfungsleistungen gibt es nicht — dieser wird lediglich für die Gesamtnote des Abschlusses berechnet.</p>
 <p>In der Amtlichen Mitteilung 141 findet sich der entsprechende Passus:</p>

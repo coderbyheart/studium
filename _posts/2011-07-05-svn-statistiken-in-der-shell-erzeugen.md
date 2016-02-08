@@ -1,41 +1,15 @@
 ---
 layout: post
-status: publish
-published: true
 title: SVN Statistiken in der Shell erzeugen
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\"><img
   class=\"alignright\" src=\"http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg\"
   alt=\"What The Foto?\" /></a>Mit ein paar geschickt kombinierten Unix-Tools lassen
   sich aus einem SVN Commit-Log interessante Statistiken extrahieren.\r\n"
-wordpress_id: 608
-wordpress_url: /?p=608
 date: '2011-07-05 10:15:50 +0200'
-date_gmt: '2011-07-05 08:15:50 +0200'
-categories:
-- Uncategorized
 tags:
 - subversion
 - SoftwareTechnik
 - WhatTheFoto
-comments:
-- id: 203
-  author: Softwerkskammer RheinMain &mdash; coder::by(♥); // blog
-  author_email: ''
-  author_url: http://coderbyheart.de/blog/softwerkskammer-rheinmain
-  date: '2012-02-28 12:37:26 +0100'
-  date_gmt: '2012-02-28 10:37:26 +0100'
-  content: "[...] eigenen Erfahrungen und Abneigungen mitbringt. Ich selbst habe eine
-    Zeile vorgestellt, die ich in meinem Studiums-Blog beschrieben habe — mir ging
-    es darum, zu zeigen, wie aus einfachsten (Linux-)Kommandos mithilfe von Verkettung
-    [...]"
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Mit ein paar geschickt kombinierten Unix-Tools lassen sich aus einem SVN Commit-Log interessante Statistiken extrahieren.<br />
 <a id="more"></a><a id="more-608"></a><br />

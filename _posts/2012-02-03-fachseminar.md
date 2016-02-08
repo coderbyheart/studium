@@ -1,26 +1,10 @@
 ---
 layout: post
-status: publish
-published: true
 title: Fachseminar
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 918
-wordpress_url: /?p=918
 date: '2012-02-03 18:00:01 +0100'
-date_gmt: '2012-02-03 16:00:01 +0100'
-categories:
-- Uncategorized
 tags:
 - fachseminar
 - latex
-comments: []
 ---
 <p>Heute habe ich meine Fachseminararbeit fertig gestellt. Bis zu diesem Semester hielt ich LaTeX für eine dumme Idee: wie kann es angehen, dass wir in Zeiten von vielfältigen und mobilen elektronischen Geräten, zum Erzeugen von Dokumenten eine Auszeichnungssprachen verwenden, die für die <em>Druckausgabe</em> optimiert ist? Aber LaTeX macht so viele Sachen richtig und komfortabel, dass man sich sehr schnell daran gewöhnt und es noch viel schneller schätzen lernt.</p>
 <p>Die Arbeit trägt den Titel <strong>Dynamische Integration von Webservices</strong> und hat einen Umfang von 3.488 Worten auf 11 Seiten.</p>

@@ -1,31 +1,15 @@
 ---
 layout: post
-status: publish
-published: true
 title: Relationemodelle mit XSL erzeugen
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Für unser <a href=\"/tag/Datenbanksysteme\">Datenbank-Projekt</a>
   habe ich ein XML-Stylesheet geschrieben, dass aus einer einfachen XML-Datei ein
   schönes Relationenmodell erzeugt.\r\n\r\n<img src=\"/uploads/2010/12/2010-12-31-115.png\"
   alt=\"Relationemodelle mit XSL erzeugen\" title=\"2010-12-31-115\" width=\"500\"
   class=\"alignnone size-full wp-image-402\" />\r\n"
-wordpress_id: 394
-wordpress_url: /?p=394
 date: '2010-12-31 15:40:14 +0100'
-date_gmt: '2010-12-31 13:40:14 +0100'
-categories:
-- Uncategorized
 tags:
 - XML
 - Datenbanksysteme
-comments: []
 ---
 <p>Für unser <a href="/tag/Datenbanksysteme">Datenbank-Projekt</a> habe ich ein XML-Stylesheet geschrieben, dass aus einer einfachen XML-Datei ein schönes Relationenmodell erzeugt.</p>
 <p><img src="/uploads/2010/12/2010-12-31-115.png" alt="Relationemodelle mit XSL erzeugen" title="2010-12-31-115" width="500" class="alignnone size-full wp-image-402" /><br />

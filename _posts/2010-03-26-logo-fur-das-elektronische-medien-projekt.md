@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Logo für das Elektronische Medien Projekt
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 208
-wordpress_url: /?p=208
 date: '2010-03-26 10:28:22 +0100'
-date_gmt: '2010-03-26 08:28:22 +0100'
-categories:
-- Uncategorized
 tags:
 - ElektronischeMedien
-comments: []
 ---
 <p>Im Kurs »Gestaltung elektronischer Medien« ist der Rahmen für alle Praktikumsaufgaben ein Projekt, bei dem ein Informationsportal zu einem sportlichen Ereignis in Deutschland erstellt werden soll &mdash; allerdings nur in Form von Screendesigns.</p>
 <p>Für dieses Projekt habe ich gestern den ersten Logoentwurf gemacht.</p>

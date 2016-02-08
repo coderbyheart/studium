@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'LaTeX QuickWin: Tex early, tex often!'
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
-wordpress_id: 1030
-wordpress_url: /?p=1030
 date: '2012-04-13 17:40:21 +0200'
-date_gmt: '2012-04-13 15:40:21 +0200'
-categories:
-- Uncategorized
 tags:
 - latex
-comments: []
 ---
 <p>Ähnlich wie beim <a href="http://en.wikipedia.org/wiki/Test-driven_development">Test-driven development</a> (<a href="http://amzn.to/GROBMv">Buchtipp!</a>) in der Softwareentwicklung sollte man beim Erstellen eines LaTeX-Dokumentes sich von Anfang an darum kümmern, ein funktionierendes Dokument zu erzeugen. Sehr hilfreich sind dabei Makefiles.</p>
 <p>Die Fehlermeldung von LaTeX sind nämlich recht kryptisch. Liegt eine lange Zeit und viele Änderungen zwischen dem letzten funktionierenden Dokument, wird es zu einem Sisyphusaufgabe, die Stelle im Dokument zu finden, die den Fehler verursacht.</p>

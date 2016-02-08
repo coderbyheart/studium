@@ -1,38 +1,13 @@
 ---
 layout: post
-status: publish
-published: true
 title: Leuchttisch Entwicklertagebuch 03
-author:
-  display_name: Markus Tacker
-  login: m
-  email: m@tacker.org
-  url: http://tckr.cc/
-author_login: m
-author_email: m@tacker.org
-author_url: http://tckr.cc/
 excerpt: "Willkommen zur dritten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs,
   in der ich die Ereignisse in der Zeit von Montag, den 4. bis Sonntag, den 10. April
   2011 beleuchten werde.\r\n"
-wordpress_id: 494
-wordpress_url: /?p=494
 date: '2011-04-11 17:51:38 +0200'
-date_gmt: '2011-04-11 15:51:38 +0200'
-categories:
-- Uncategorized
 tags:
 - SoftwareTechnik
 - WhatTheFoto
-comments:
-- id: 132
-  author: Ticket-Workflow &laquo; Markus studiert!
-  author_email: ''
-  author_url: /ticket-workflow
-  date: '2011-07-28 12:55:42 +0200'
-  date_gmt: '2011-07-28 10:55:42 +0200'
-  content: "[...] Tickets. Verwendet man diesen Link, werden Meilenstein, Komponente,
-    CC und Owner des jeweiligen WorkPackages übernommen und das Feld Keywords mit
-    dem Verweis, auf das WorkPackage [...]"
 ---
 <p>Willkommen zur dritten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs, in der ich die Ereignisse in der Zeit von Montag, den 4. bis Sonntag, den 10. April 2011 beleuchten werde.<br />
 <a id="more"></a><a id="more-494"></a></p>
