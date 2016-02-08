@@ -27,7 +27,7 @@ comments:
 - id: 132
   author: Ticket-Workflow &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/ticket-workflow
+  author_url: /ticket-workflow
   date: '2011-07-28 12:55:42 +0200'
   date_gmt: '2011-07-28 10:55:42 +0200'
   content: "[...] Tickets. Verwendet man diesen Link, werden Meilenstein, Komponente,

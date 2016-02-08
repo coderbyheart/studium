@@ -38,7 +38,7 @@ comments:
 - id: 170
   author: Markus Tacker
   author_email: m@tacker.org
-  author_url: http://studium.coderbyheart.de/
+  author_url: /
   date: '2012-01-27 18:27:36 +0100'
   date_gmt: '2012-01-27 16:27:36 +0100'
   content: "Da stimme ich dir voll zu. Man muss ganz klar sagen, dass Django explizit
@@ -55,7 +55,7 @@ comments:
 - id: 192
   author: Projektergebnis Mobile Computing &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/projektergebnis-mobile-computing
+  author_url: /projektergebnis-mobile-computing
   date: '2012-02-22 16:42:54 +0100'
   date_gmt: '2012-02-22 14:42:54 +0100'
   content: "[...] umgesetzt. Auch das hat mir einige „OMG! Wie geil!“-Momente, über

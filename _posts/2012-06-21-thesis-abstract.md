@@ -23,7 +23,7 @@ comments:
 - id: 260
   author: 'Thesis: Statistiken &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-statistiken
+  author_url: /thesis-statistiken
   date: '2012-06-29 11:49:45 +0200'
   date_gmt: '2012-06-29 09:49:45 +0200'
   content: "[...] ein paar Statistiken zu meiner Thesis, dessen Dokument ich heute
@@ -31,14 +31,14 @@ comments:
 - id: 261
   author: 'Thesis: Quellen &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-quellen
+  author_url: /thesis-quellen
   date: '2012-06-29 12:15:01 +0200'
   date_gmt: '2012-06-29 10:15:01 +0200'
   content: "[...] Hier die Liste der verwendeten Quellen meiner Thesis. [...]"
 - id: 265
   author: 'Thesis: Kolloquium &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-kolloquium
+  author_url: /thesis-kolloquium
   date: '2012-07-04 13:43:45 +0200'
   date_gmt: '2012-07-04 11:43:45 +0200'
   content: "[...] Kolloquium wird die Thesis in Form einer Präsentation vorgestellt.
@@ -46,7 +46,7 @@ comments:
 - id: 273
   author: 'Thesis: 1,0 &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-10
+  author_url: /thesis-10
   date: '2012-07-16 12:48:27 +0200'
   date_gmt: '2012-07-16 10:48:27 +0200'
   content: "[...] Höhepunkt war dann aber die gleich mitgelieferte Note der Thesis,

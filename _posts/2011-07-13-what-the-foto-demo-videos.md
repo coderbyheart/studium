@@ -25,7 +25,7 @@ comments:
 - id: 142
   author: Bewertete Abgaben im vierten Semester &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/bewertete-abgaben-im-4-semester
+  author_url: /bewertete-abgaben-im-4-semester
   date: '2011-07-31 12:48:50 +0200'
   date_gmt: '2011-07-31 10:48:50 +0200'
   content: "[...] Abzugeben waren das Pflichtenheft (PDF, 59 Seiten), das Designdokument

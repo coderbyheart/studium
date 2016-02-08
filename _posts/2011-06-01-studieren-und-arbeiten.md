@@ -34,7 +34,7 @@ comments:
 - id: 141
   author: Bewertete Abgaben im 4. Semester &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/bewertete-abgaben-im-4-semester
+  author_url: /bewertete-abgaben-im-4-semester
   date: '2011-07-31 12:47:45 +0200'
   date_gmt: '2011-07-31 10:47:45 +0200'
   content: "[...] Aufwand erledigt werden. Das ist natürlich für einen selber überhaupt
@@ -43,7 +43,7 @@ comments:
 - id: 155
   author: "„Im Eiltempo zum Bachelor“ &laquo; Markus studiert!"
   author_email: ''
-  author_url: http://studium.coderbyheart.de/%e2%80%9eim-eiltempo-zum-bachelor%e2%80%9c
+  author_url: /%e2%80%9eim-eiltempo-zum-bachelor%e2%80%9c
   date: '2011-09-16 11:08:51 +0200'
   date_gmt: '2011-09-16 09:08:51 +0200'
   content: "[...] Artikel über die Studiendauer von Bachelor-Studiengängen, mit der

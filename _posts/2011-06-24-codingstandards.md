@@ -18,7 +18,7 @@ excerpt: "<a href=\"http://www.flickr.com/photos/tacker/sets/72157626379556132/\
   auch in Eclipse und in der Continuous Integration überprüfen.\r\n\r\nDa mit Cobertura
   auch Tests auf Basis von regulären Ausdrücken ausgeführt werden können, konnten
   wir auch den C#-Quellcode des Frontendteams zumindest rudimentären Tests unterziehen.
-  Unsere Cobertura-Checks finden sich <a href=\"http://studium.coderbyheart.de/svn/WTF/codingstandards/cobertura/\">hier</a>.
+  Unsere Cobertura-Checks finden sich <a href=\"/svn/WTF/codingstandards/cobertura/\">hier</a>.
   \r\n"
 wordpress_id: 579
 wordpress_url: /?p=579
@@ -33,10 +33,10 @@ comments:
 - id: 116
   author: Ticket-Workflow « Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/ticket-workflow
+  author_url: /ticket-workflow
   date: '2011-06-26 11:36:20 +0200'
   date_gmt: '2011-06-26 09:36:20 +0200'
-  content: "[...] Codingstandards http://studium.coderbyheart.de/codingstandards [...]"
+  content: "[...] Codingstandards /codingstandards [...]"
 - id: 8678
   author: Adiolercx
   author_email: i8wurgtjw4b@outlook.com
@@ -52,7 +52,7 @@ comments:
     Foursquare API anzapfen we4re es interessant :)
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Für das Projekt haben wir uns auf Codingstandards geeignet, die wir mit Hilfe von <a href="http://cobertura.sourceforge.net/">Cobertura</a> auch in Eclipse und in der Continuous Integration überprüfen.</p>
-<p>Da mit Cobertura auch Tests auf Basis von regulären Ausdrücken ausgeführt werden können, konnten wir auch den C#-Quellcode des Frontendteams zumindest rudimentären Tests unterziehen. Unsere Cobertura-Checks finden sich <a href="http://studium.coderbyheart.de/svn/WTF/codingstandards/cobertura/">hier</a>.<br />
+<p>Da mit Cobertura auch Tests auf Basis von regulären Ausdrücken ausgeführt werden können, konnten wir auch den C#-Quellcode des Frontendteams zumindest rudimentären Tests unterziehen. Unsere Cobertura-Checks finden sich <a href="/svn/WTF/codingstandards/cobertura/">hier</a>.<br />
 <a id="more"></a><a id="more-579"></a></p>
 <h3 class="textimage">Coding-Standards für Quellcode</h3>
 <ul>

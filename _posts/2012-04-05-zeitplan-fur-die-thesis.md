@@ -39,7 +39,7 @@ comments:
 - id: 264
   author: 'Thesis: gedruckt &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-gedruckt
+  author_url: /thesis-gedruckt
   date: '2012-07-02 13:20:18 +0200'
   date_gmt: '2012-07-02 11:20:18 +0200'
   content: "[...] meinem Zeitplan war heute der Tag gekommen, an dem ich der bisher

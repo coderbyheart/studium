@@ -48,7 +48,7 @@ comments:
 - id: 10
   author: Markus Tacker
   author_email: m@tacker.org
-  author_url: http://studium.coderbyheart.de/
+  author_url: /
   date: '2009-10-17 14:49:20 +0200'
   date_gmt: '2009-10-17 12:49:20 +0200'
   content: Einladung ist raus!
@@ -126,7 +126,7 @@ comments:
 - id: 28
   author: Markus Tacker
   author_email: m@tacker.org
-  author_url: http://studium.coderbyheart.de/
+  author_url: /
   date: '2009-11-09 19:02:17 +0100'
   date_gmt: '2009-11-09 17:02:17 +0100'
   content: "Das read.MI ist echt nervig.\n<ul>\n\t<li>der RSS-Feed für neue Dateien
@@ -146,7 +146,7 @@ comments:
 - id: 40
   author: Neues Forum für Medieninformatiker &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/neues-forum-fur-medieninformatiker
+  author_url: /neues-forum-fur-medieninformatiker
   date: '2010-04-05 15:27:29 +0200'
   date_gmt: '2010-04-05 13:27:29 +0200'
   content: "[...] Unterlagen, Skripte etc, gehören nicht ins Forum, da diese dort
@@ -170,4 +170,4 @@ comments:
 Ich konnte den Kurse-Ordner zwar von meinem Laptop kopieren &mdash; ohne TeamDrive vorher zu starten &mdash; und so das ganze relativ schnell und unkompliziert rückgängi machen, aber beim nächsten Mal klappt das Wiederherstellen vielleicht nicht mehr so ohne weiteres ...<br />
 Wer jetzt weiterhin Schreibrechte haben will, bitte melden.</p>
 <h3 class="textimage" id="update3">Update 2010</h3>
-<p>Seit 2010 verwenden wir TeamDrive nicht mehr, sondern sind auf <a href="http://studium.coderbyheart.de/tag/dropbox">DropBox</a> umgestiegen.</p>
+<p>Seit 2010 verwenden wir TeamDrive nicht mehr, sondern sind auf <a href="/tag/dropbox">DropBox</a> umgestiegen.</p>

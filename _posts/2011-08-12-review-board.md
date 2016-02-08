@@ -11,7 +11,7 @@ author:
 author_login: m
 author_email: m@tacker.org
 author_url: http://tckr.cc/
-excerpt: "Für das <a href=\"http://studium.coderbyheart.de/tag/WhatTheFoto\">Softwaretechnik-Projekt</a>
+excerpt: "Für das <a href=\"/tag/WhatTheFoto\">Softwaretechnik-Projekt</a>
   hatte ich nach eine Möglichkeit gesucht, komfortable Code-Reviews zu machen. Mein
   Professor ist dann auf <a href=\"http://www.reviewboard.org/\">Review Board</a>
   gestoßen.\r\n"
@@ -26,7 +26,7 @@ tags:
 - WhatTheFoto
 comments: []
 ---
-<p>Für das <a href="http://studium.coderbyheart.de/tag/WhatTheFoto">Softwaretechnik-Projekt</a> hatte ich nach eine Möglichkeit gesucht, komfortable Code-Reviews zu machen. Mein Professor ist dann auf <a href="http://www.reviewboard.org/">Review Board</a> gestoßen.<br />
+<p>Für das <a href="/tag/WhatTheFoto">Softwaretechnik-Projekt</a> hatte ich nach eine Möglichkeit gesucht, komfortable Code-Reviews zu machen. Mein Professor ist dann auf <a href="http://www.reviewboard.org/">Review Board</a> gestoßen.<br />
 <a id="more"></a><a id="more-628"></a></p>
 <blockquote><p>Review Board is a powerful web-based code review tool that offers developers an easy way to handle code reviews. It scales well from small projects to large companies and offers a variety of tools to take much of the stress and time out of the code review process.</p></blockquote>
 <p>Auf den ersten Blick hört sich das natürlich toll an.</p>

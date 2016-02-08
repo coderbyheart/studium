@@ -23,7 +23,7 @@ comments:
 - id: 171
   author: Fachseminar &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/fachseminar
+  author_url: /fachseminar
   date: '2012-02-03 18:00:03 +0100'
   date_gmt: '2012-02-03 16:00:03 +0100'
   content: "[...] kurzen Überblick über das Thema liefert die Präsentationsfolien

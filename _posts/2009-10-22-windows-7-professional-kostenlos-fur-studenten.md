@@ -23,7 +23,7 @@ comments:
 - id: 31
   author: Markus Tacker
   author_email: m@tacker.org
-  author_url: http://studium.coderbyheart.de/
+  author_url: /
   date: '2010-01-14 23:17:52 +0100'
   date_gmt: '2010-01-14 21:17:52 +0100'
   content: |-

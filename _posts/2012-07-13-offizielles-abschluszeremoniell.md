@@ -24,7 +24,7 @@ comments:
 - id: 274
   author: 'Thesis: 1,0 &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-10
+  author_url: /thesis-10
   date: '2012-07-16 12:48:42 +0200'
   date_gmt: '2012-07-16 10:48:42 +0200'
   content: "[...] Vorbehaltlich des Bestehens der letzten Klausur (Security), durfte

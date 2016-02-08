@@ -23,7 +23,7 @@ comments:
 - id: 160
   author: Achievement unlocked! &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/achievement-unlocked
+  author_url: /achievement-unlocked
   date: '2011-10-28 11:41:00 +0200'
   date_gmt: '2011-10-28 09:41:00 +0200'
   content: "[...] unsere Arbeit im Softwaretechnik-Projekt haben wir den Jöndhard

@@ -12,7 +12,7 @@ author_login: m
 author_email: m@tacker.org
 author_url: http://tckr.cc/
 excerpt: "Es ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen.
-  Wie <a href=\"http://studium.coderbyheart.de/zwischenfazit-nach-einem-jahr\">bereits
+  Wie <a href=\"/zwischenfazit-nach-einem-jahr\">bereits
   im letzten Jahr</a> möchte ich an dieser Stelle die Erlebnisse im vergangenen Jahr
   Revue passieren lassen.\r\n"
 wordpress_id: 808
@@ -36,7 +36,7 @@ comments:
 - id: 278
   author: 'Thesis: 1,0 &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-10
+  author_url: /thesis-10
   date: '2012-07-17 12:08:29 +0200'
   date_gmt: '2012-07-17 10:08:29 +0200'
   content: "[...] Note vorliegt, werde ich das letzte Jahr meines Studiums zusammenfassung
@@ -45,7 +45,7 @@ comments:
 - id: 283
   author: Mein Fazit zum Medieninformatik-Studium &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/mein-fazit-zum-medieninformatik-studium
+  author_url: /mein-fazit-zum-medieninformatik-studium
   date: '2012-08-17 12:13:12 +0200'
   date_gmt: '2012-08-17 10:13:12 +0200'
   content: "[...] bereits nach dem ersten und dem zweiten Jahr geschehen, ziehe ich
@@ -61,18 +61,18 @@ comments:
     beisteuern. Ich hoffe auch, dass mir einige Inhalte aufgrund meiner Ausbildung
     und meiner Berufserfahrung [...]"
 ---
-<p>Es ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen. Wie <a href="http://studium.coderbyheart.de/zwischenfazit-nach-einem-jahr">bereits im letzten Jahr</a> möchte ich an dieser Stelle die Erlebnisse im vergangenen Jahr Revue passieren lassen.<br />
+<p>Es ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen. Wie <a href="/zwischenfazit-nach-einem-jahr">bereits im letzten Jahr</a> möchte ich an dieser Stelle die Erlebnisse im vergangenen Jahr Revue passieren lassen.<br />
 <a id="more"></a><a id="more-808"></a></p>
 <h3 class="textimage">Vorwissen reicht nicht mehr aus</h3>
 <p>Im ersten und zweiten Semester konnte ich noch gut vom Vorwissen aus meinem bisherigen Berufsleben zehren — der Aufwand, um in den Kursen gute Ergebnisse zu erzielen hielt sich in Grenzen. Ab dem dritten Semester war es aber vorbei mit einfachen Themen. Fächer wie <em>Automatentheorie und formale Sprachen</em> und <em>Programmieren 3</em> brachten vollständig neue Themen mit sich, die ich mir zeitintensiv erarbeiten musste. Auch <em>Mathe 3</em> und <em>Softwaretechnik</em> waren inhaltliche Schwergewichte, so dass ich im dritten Semester meine Nebentätigkeiten zum deutliche reduzieren musste.</p>
-<p>Noch einmal heftiger wurde dann das vierte Semester. <a href="http://studium.coderbyheart.de/bewertete-abgaben-im-4-semester">Wie bereits berichtet</a> hatten wir zum Teil sechs bewertete Abgaben parallel laufen, und Fächer wie <em>Rechnernetze und Netzwerkprogrammierung</em>, <em>Web-basierte Anwendungen</em> und allen voran das <em>Softwaretechnik-Projekt,</em> für das ich allein im Schnitte 16 Stunden pro Woche an Aufwänden hatte, haben so auf das Zeitkonto gedrückt, dass ich nur noch gut einen halben Tag pro Woche nebenbei gearbeitet habe, und unter der Woche meistens bis 22 Uhr und am Wochenende auch noch einen ganzen Tag am Rechner saß. Praktischerweise war dieser Sommer historisch schlecht, sonst wäre es nur schwer aus zu halten gewesen.</p>
+<p>Noch einmal heftiger wurde dann das vierte Semester. <a href="/bewertete-abgaben-im-4-semester">Wie bereits berichtet</a> hatten wir zum Teil sechs bewertete Abgaben parallel laufen, und Fächer wie <em>Rechnernetze und Netzwerkprogrammierung</em>, <em>Web-basierte Anwendungen</em> und allen voran das <em>Softwaretechnik-Projekt,</em> für das ich allein im Schnitte 16 Stunden pro Woche an Aufwänden hatte, haben so auf das Zeitkonto gedrückt, dass ich nur noch gut einen halben Tag pro Woche nebenbei gearbeitet habe, und unter der Woche meistens bis 22 Uhr und am Wochenende auch noch einen ganzen Tag am Rechner saß. Praktischerweise war dieser Sommer historisch schlecht, sonst wäre es nur schwer aus zu halten gewesen.</p>
 <h3 class="textimage">Erste Rückschläge</h3>
 <p>Die zwei Durchfaller in <em>Mathe 3</em> und <em>Computergrafik</em> — interessanterweise beide bei dem gleichen Professor — sind dann zum Teil sicher auch dem genannten Umstand geschuldet. Beide Fächer sind inhaltlich sehr komplex und Umfangreich und noch zudem nicht unbedingt mein Interessengebiet. <em>Mathe 3</em> habe ich in der Wiederholung dann bestanden, und zum Bestehen der Computergrafikklausur fehlten mir 2 Punkte (zu 45)  — trotzdem ist es ärgerlich, dass man sich ein halbes Jahr länger mit so einem Thema beschäftigen muss.</p>
 <h3 class="textimage">Überfrachteter Stundenplan</h3>
 <p>Wobei wir auch beim größten Problem des Studiums wären: der Studienplan eines Vollzeitstudiums der Medieninformatik ist so sehr mit Themen vollgestopft, dass man kaum Zeit hat, sich sinnvoll mit den Themen zu beschäftigen. Vieles lernt man auswendig, um es in der Klausur ab zu rufen, und im folgenden Semester wird das Wissen nicht mehr benötigt und wird, mit den Studienunterlagen in den Mülleimer geworfen.</p>
 <p>In den letzten zwei Jahren habe ich 28 Kurse belegt, in denen etwa 37 fachlich trennbare Themen behandelt wurden  — man kann sich also gut Vorstellen, dass nur die wirklich, für mich persönlich interessanten Themen hängen bleiben, und mehr als die Hälfte unnötiger Ballast auf dem Weg zum Bachelor-Abschluss war.</p>
 <h3 class="textimage">Highlights</h3>
-<p>Das Highlight im vergangenen Studienjahr war sicherlich das <a href="http://studium.coderbyheart.de/tag/whatthefoto">Softwaretechnik-Projekt</a>. Mit sieben Creditpoints das bisher aufwändigste Fach. Hier musste im Team von elf Mitstudenten eine Software im Verlauf des vierten Semester entwickelt werden, inkl. vollständiger Planung. Meine Aufgabe dabei war die des Projektleiters, was mir auch großen Spaß bereitet hat — das Projekt lief so gut, dass die Team-Arbeit mit einer glatten 1.0 bewertet wurde, meine Einzelnoten waren ebenfalls sehr gut, so dass ich als Gesamtnote eine tolle 1.0 erreichen konnte. In diesem Fach konnte man auch endlich mal frei Arbeiten, ohne dass einem die Arbeitsweise durch wöchentliche Praktikumsaufgaben vorgeschrieben wird.</p>
+<p>Das Highlight im vergangenen Studienjahr war sicherlich das <a href="/tag/whatthefoto">Softwaretechnik-Projekt</a>. Mit sieben Creditpoints das bisher aufwändigste Fach. Hier musste im Team von elf Mitstudenten eine Software im Verlauf des vierten Semester entwickelt werden, inkl. vollständiger Planung. Meine Aufgabe dabei war die des Projektleiters, was mir auch großen Spaß bereitet hat — das Projekt lief so gut, dass die Team-Arbeit mit einer glatten 1.0 bewertet wurde, meine Einzelnoten waren ebenfalls sehr gut, so dass ich als Gesamtnote eine tolle 1.0 erreichen konnte. In diesem Fach konnte man auch endlich mal frei Arbeiten, ohne dass einem die Arbeitsweise durch wöchentliche Praktikumsaufgaben vorgeschrieben wird.</p>
 <h3 class="textimage">Noten</h3>
 <p>Im dritten und vierten Semester habe ich alle Prüfungsleistungen mit geschrieben, zusätzlich habe im dritten bereits <em>Betriebsysteme und Rechnerarchitektur</em> absolviert, da sich das Fach sehr gut mit <em>Programmieren 3</em> ergänzt hat, das gleicht dann das nicht bestandene Fach Computergrafik aus, so dass ich am Ende des vierten Semesters 120 Creditpoints habe und einen Notendurchschnitt von 1,73 habe.</p>
 <table class="normal">

@@ -21,6 +21,6 @@ tags:
 - Transfer
 comments: []
 ---
-<p>Der <a href="http://studium.coderbyheart.de/studitransfer">StudiTransfer</a> ist ab sofort nur noch mit personalisierten Zugangsdaten erreichbar, da die zum Teil urheberrechtlich geschützten Publikation der Hochschule zu einfach zugänglich waren.</p>
+<p>Der <a href="/studitransfer">StudiTransfer</a> ist ab sofort nur noch mit personalisierten Zugangsdaten erreichbar, da die zum Teil urheberrechtlich geschützten Publikation der Hochschule zu einfach zugänglich waren.</p>
 <p>Logins und Passwörter versende ich auf Anfrage.</p>
-<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">http://studium.coderbyheart.de/studitransfer</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">/studitransfer</div>

@@ -1,6 +1,6 @@
 var WebCodeForm = new Class({
 	webcodes: {
-		'bklt2010': 'http://studium.coderbyheart.de/booklet/',
+		'bklt2010': '/booklet/',
 		'3pYKad': 'http://googleblog.blogspot.com/2009/07/google-apps-is-out-of-beta-yes-really.html',
 		'eZ5GI': 'http://gmailblog.blogspot.com/2009/07/gmail-leaves-beta-launches-back-to-beta.html',
 		'wikipedia': 'http://de.wikipipedia.org/',
@@ -111,7 +111,7 @@ window.addEvent('domready', function() {
         new Asset.css(THEME_CSS_DIR + '/chrome.css', {'media': 'screen'});
 
 	// Bade
-	var jbsw = new Element('a', {'href': 'http://studium.coderbyheart.de/achievement-unlocked', 'title': 'Jöndhard Biffel Softwaretechnik Wanderpreis', 'id': 'jbswbadge'});
+	var jbsw = new Element('a', {'href': '/achievement-unlocked', 'title': 'Jöndhard Biffel Softwaretechnik Wanderpreis', 'id': 'jbswbadge'});
 	jbsw.inject($$('h1')[0], 'after');
     }
 

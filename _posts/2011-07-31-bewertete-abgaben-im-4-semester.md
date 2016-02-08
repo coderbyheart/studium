@@ -12,7 +12,7 @@ author_login: m
 author_email: m@tacker.org
 author_url: http://tckr.cc/
 excerpt: "Das vierte Semester war nach meinem Gefühl das bisher anstrengendste des
-  Studiums. Allein für das <a href=\"http://studium.coderbyheart.de/tag/whatthefoto\">Softwaretechnik-Projekt</a>
+  Studiums. Allein für das <a href=\"/tag/whatthefoto\">Softwaretechnik-Projekt</a>
   habe ich im Schnitt 16 Stunden pro Woche investiert — dank Zeiterfassung mit <a
   href=\"http://mite.yo.lk/\">mite</a> kann ich das ziemlich genau sagen.\r\n\r\nGrund
   für diese Belastung war vor allem die große Menge an bewerteten Abgaben, die wir
@@ -29,7 +29,7 @@ comments:
 - id: 151
   author: Zwischenfazit nach zwei Jahren &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/zwischenfazit-nach-zwei-jahren
+  author_url: /zwischenfazit-nach-zwei-jahren
   date: '2011-08-31 11:27:23 +0200'
   date_gmt: '2011-08-31 09:27:23 +0200'
   content: "[...] einmal heftiger wurde dann das vierte Semester. Wie bereits berichtet hatten
@@ -38,7 +38,7 @@ comments:
 - id: 172
   author: Praxisprojekt &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/praxisprojekt
+  author_url: /praxisprojekt
   date: '2012-02-05 11:54:34 +0100'
   date_gmt: '2012-02-05 09:54:34 +0100'
   content: "[...] eine schöne Abwechslung zum Kurs-Marathon im Studium, bei dem man
@@ -47,7 +47,7 @@ comments:
 - id: 282
   author: Mein Fazit zum Medieninformatik-Studium &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/mein-fazit-zum-medieninformatik-studium
+  author_url: /mein-fazit-zum-medieninformatik-studium
   date: '2012-08-16 23:05:08 +0200'
   date_gmt: '2012-08-16 21:05:08 +0200'
   content: "[...] sehr leicht die teilweise absurd hohe Arbeitsbelastung verschmerzen.
@@ -55,11 +55,11 @@ comments:
     werden mussten, ist dann auch nur noch ein fahles Echo und man freut sich eher,
     dass man es trotz allem doch zu [...]"
 ---
-<p>Das vierte Semester war nach meinem Gefühl das bisher anstrengendste des Studiums. Allein für das <a href="http://studium.coderbyheart.de/tag/whatthefoto">Softwaretechnik-Projekt</a> habe ich im Schnitt 16 Stunden pro Woche investiert — dank Zeiterfassung mit <a href="http://mite.yo.lk/">mite</a> kann ich das ziemlich genau sagen.</p>
+<p>Das vierte Semester war nach meinem Gefühl das bisher anstrengendste des Studiums. Allein für das <a href="/tag/whatthefoto">Softwaretechnik-Projekt</a> habe ich im Schnitt 16 Stunden pro Woche investiert — dank Zeiterfassung mit <a href="http://mite.yo.lk/">mite</a> kann ich das ziemlich genau sagen.</p>
 <p>Grund für diese Belastung war vor allem die große Menge an bewerteten Abgaben, die wir während des Semesters ausarbeiten mussten. In der Grafik habe ich diese mal zusammengestellt.</p>
 <p><a id="more"></a><a id="more-772"></a></p>
 <p><a href="http://www.flickr.com/photos/tacker/5993505472/sizes/l/in/photostream/"><img src="http://farm7.static.flickr.com/6002/5993505472_ca6a5f6068.jpg" alt="Bewertete Abgaben im 4. Semester" width="500" /></a></p>
-<p>In manchen Wochen hat man so bis zu sechs Themen auf der Todo-Liste, die alle bearbeitet werden wollen. Da bleibt es leider nicht aus, dass man priorisieren muss und einige Abgaben nur mit dem geringst möglichen Aufwand erledigt werden. Das ist natürlich für einen selber überhaupt nicht befriedigend, aber, <a href="http://studium.coderbyheart.de/studieren-und-arbeiten">wie schon hier beschrieben</a>, ist das Studium ein Vollzeitstudium und jetzt im vierten Semester macht sich das voll bemerkbar.</p>
+<p>In manchen Wochen hat man so bis zu sechs Themen auf der Todo-Liste, die alle bearbeitet werden wollen. Da bleibt es leider nicht aus, dass man priorisieren muss und einige Abgaben nur mit dem geringst möglichen Aufwand erledigt werden. Das ist natürlich für einen selber überhaupt nicht befriedigend, aber, <a href="/studieren-und-arbeiten">wie schon hier beschrieben</a>, ist das Studium ein Vollzeitstudium und jetzt im vierten Semester macht sich das voll bemerkbar.</p>
 <p>Leider führen diese Kompromisse dazu, dass man bestimmte Inhalte nur soweit wie nötig lernt, um die Aufgabe eines Testates zu erfüllen und sich dieses Halbwissen dann sehr schnell wieder verflüchtigt — meiner Meinung nach lässt das der Semesterplan aber gar nichts anderes zu, es ist also zum Teil gewollt oder wird zumindest in Kauf genommen.</p>
 <p>Hier nun die Abgaben im Einzelnen:</p>
 <h3 class="textimage">Computergrafik</h3>
@@ -67,9 +67,9 @@ comments:
 <h3 class="textimage">Softwaretechnik</h3>
 <p>Im vierten Semester sicherlich der Schwerpunkt. Hier fließt im Verhältnis zu den vergebenen Creditpoints überdurchschnittlich viel Zeit rein. In meinem Fall habe ich 37% mehr Zeit investiert, als für ein Fach mit 7 Creditpoints vorgesehen ist — damit habe ich schon zwei Tage pro Woche <em>nur für ein Fach</em> investiert. Der Spitzenreiter aus meinem Team liegt bei 79% mehr (21 Stunden pro Woche).</p>
 <p>Die Abgaben bestanden im diesem Fach aus vorgegebenen Meilensteinen, bei denen wir zwar die Termine selber wählen konnten, die aber zeitlich mindestens eine Woche auseinander liegen mussten.</p>
-<p>Abzugeben waren das Pflichtenheft (<a href="http://studium.coderbyheart.de/svn/WTF/Pflichtenheft.pdf">PDF</a>, 59 Seiten), das Designdokument (<a href="http://studium.coderbyheart.de/svn/WTF/Designdokument.pdf">PDF</a>, 150 Seiten), zwei lauffähige Zwischendemos, sowie natürlich die <a href="http://studium.coderbyheart.de/what-the-foto-demo-videos">fertige Anwendung</a>.</p>
+<p>Abzugeben waren das Pflichtenheft (<a href="/svn/WTF/Pflichtenheft.pdf">PDF</a>, 59 Seiten), das Designdokument (<a href="/svn/WTF/Designdokument.pdf">PDF</a>, 150 Seiten), zwei lauffähige Zwischendemos, sowie natürlich die <a href="/what-the-foto-demo-videos">fertige Anwendung</a>.</p>
 <h3 class="textimage">Animation und Film</h3>
-<p>In der ersten Hälfte des Semester gab es in diesem Fach sechs Wochen lang Einzelabgaben in denen diverse <a href="http://studium.coderbyheart.de/tag/filmanimation">kleinere Aufgaben</a> in Flash zu lösen waren. Der Aufwand hielt sich für mich in Grenzen, trotzdem war ich immer mehrere Stunden pro Woche damit beschäftigt.</p>
+<p>In der ersten Hälfte des Semester gab es in diesem Fach sechs Wochen lang Einzelabgaben in denen diverse <a href="/tag/filmanimation">kleinere Aufgaben</a> in Flash zu lösen waren. Der Aufwand hielt sich für mich in Grenzen, trotzdem war ich immer mehrere Stunden pro Woche damit beschäftigt.</p>
 <p>In einer Gruppe mit vier Personen mussten dann wöchentlich noch filmtheoretische Themen ausgearbeitet werden, die jeweils den Umfang von bis zu sechs Seiten hatten und bei denen jedes Mal auch eigenes Material in Form von Fotos erstellt werden, oder zumindest passendes Filmmaterial recherchiert und geschnitten werden musste.</p>
 <p>In der zweiten Hälfte musste dann eines der sechs Themen (Format, Einstellung, Kadrierung, Grafische Gestaltungselemente und die Kameraperspektive, Optik in der Bildgestaltung, Dialogauflösung) in Form eines interaktiven Lehrfilmes in Flash umgesetzt werden — was dank der großartig beschissenen Flash-IDE eine wahre Freude war.</p>
 <h3 class="textimage">Web-basierte Anwendungen</h3>

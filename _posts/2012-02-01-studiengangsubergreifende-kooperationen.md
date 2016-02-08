@@ -34,7 +34,7 @@ comments:
 - id: 175
   author: Werkschau Wiesbaden &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/werkschau-wiesbaden
+  author_url: /werkschau-wiesbaden
   date: '2012-02-12 16:03:51 +0100'
   date_gmt: '2012-02-12 14:03:51 +0100'
   content: "[...] und Innenarchitektur der Hochschule RheinMain ihre Abschlussarbeiten

@@ -23,7 +23,7 @@ comments:
 - id: 130
   author: Ergebnis der TeamDrive-Umfrage &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/ergebnis-der-teamdrive-umfrage
+  author_url: /ergebnis-der-teamdrive-umfrage
   date: '2011-07-28 11:48:42 +0200'
   date_gmt: '2011-07-28 09:48:42 +0200'
   content: "[...] Deswegen habe ich mich entschlossen einen HTTP-Mirror für das TeamDrive

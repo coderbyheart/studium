@@ -34,7 +34,7 @@ comments:
 - id: 152
   author: Zwischenfazit nach zwei Jahren &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/zwischenfazit-nach-zwei-jahren
+  author_url: /zwischenfazit-nach-zwei-jahren
   date: '2011-08-31 11:33:21 +0200'
   date_gmt: '2011-08-31 09:33:21 +0200'
   content: "[...] ist wieder an der Zeit, ein Zwischenfazit zu meinem Studium zu ziehen.
@@ -43,7 +43,7 @@ comments:
 - id: 277
   author: 'Thesis: 1,0 &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-10
+  author_url: /thesis-10
   date: '2012-07-17 12:05:51 +0200'
   date_gmt: '2012-07-17 10:05:51 +0200'
   content: "[...] letzte Note vorliegt, werde ich das letzte Jahr meines Studiums
@@ -52,7 +52,7 @@ comments:
 - id: 281
   author: Mein Fazit zum Medieninformatik-Studium &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/mein-fazit-zum-medieninformatik-studium
+  author_url: /mein-fazit-zum-medieninformatik-studium
   date: '2012-08-16 23:04:48 +0200'
   date_gmt: '2012-08-16 21:04:48 +0200'
   content: "[...] bereits nach dem ersten und dem zweiten Jahr geschehen, ziehe ich

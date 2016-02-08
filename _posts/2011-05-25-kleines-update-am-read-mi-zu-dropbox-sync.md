@@ -25,7 +25,7 @@ comments:
 - id: 279
   author: Dateien in der Dropbox löschen &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/dateien-in-der-dropbox-loschen
+  author_url: /dateien-in-der-dropbox-loschen
   date: '2012-07-19 09:31:14 +0200'
   date_gmt: '2012-07-19 07:31:14 +0200'
   content: "[...] Inzwischen wird verhindert, dass Dateien aus der Dropbox gelöscht

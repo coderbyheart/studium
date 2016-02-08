@@ -30,6 +30,6 @@ comments: []
 Man konnte in der Beschreibung eines Tickets das Tag<br />
 [cc]@depends Ticket 1[, Ticket 2[, ...]][/cc]<br />
 einfügen.</p>
-<p>Mit <a href="http://studium.coderbyheart.de/svn/WTF/tickettree/TicketTree.py">diesem Script</a> habe ich dann alle Tickets nach dem Tag durchsucht und daraus eine Wiki-Seite erzeugt, die diese Abhängigkeiten visualisiert.</p>
+<p>Mit <a href="/svn/WTF/tickettree/TicketTree.py">diesem Script</a> habe ich dann alle Tickets nach dem Tag durchsucht und daraus eine Wiki-Seite erzeugt, die diese Abhängigkeiten visualisiert.</p>
 <p>Leider ist <a href="http://www.flickr.com/photos/tacker/5983778399/sizes/o/in/photostream/">das Ergebnis</a> eher weniger nützlich.</p>
 <p>Übrigens verfügt auch Trac selber <a href="http://trac.edgewall.org/wiki/ticket/31">immer noch nicht</a> über eine Funktion, mit der das möglich ist. Ein gutes Beispiel wie sowas aussehen kann, <a href="http://www.redmine.org/projects/redmine/wiki/RedmineIssues#Related-issues">ist in Redmine implementiert</a>.</p>

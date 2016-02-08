@@ -36,7 +36,7 @@ comments:
 - id: 34
   author: Markus Tacker
   author_email: m@tacker.org
-  author_url: http://studium.coderbyheart.de/
+  author_url: /
   date: '2010-01-21 09:29:57 +0100'
   date_gmt: '2010-01-21 07:29:57 +0100'
   content: Auf jeden Fall! Stell dir vor wie cool das wäre, da selber für zu entwickeln!

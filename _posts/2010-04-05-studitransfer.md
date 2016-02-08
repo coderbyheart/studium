@@ -25,20 +25,20 @@ comments:
 - id: 45
   author: StudiTransfer nur noch mit persönlichen Logins &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/studitransfer-nur-noch-mit-personlichen-logins
+  author_url: /studitransfer-nur-noch-mit-personlichen-logins
   date: '2010-05-26 21:39:32 +0200'
   date_gmt: '2010-05-26 19:39:32 +0200'
   content: "[...] StudiTransfer nur noch mit persönlichen Logins [...]"
 - id: 47
   author: StudiTransfer auf Dropbox &laquo; Markus studiert!
   author_email: ''
-  author_url: http://studium.coderbyheart.de/studitransfer-auf-dropbox
+  author_url: /studitransfer-auf-dropbox
   date: '2010-06-28 10:47:45 +0200'
   date_gmt: '2010-06-28 08:47:45 +0200'
   content: "[...] StudiTransfer auf Dropbox [...]"
 ---
-<p>http://db.tt/NYepoPINachdem wir im Ersten Semester mit mehr oder weniger Erfolg <a href="http://studium.coderbyheart.de/tag/TeamDrive">TeamDrive</a> eingesetzt haben, um die Studiums-Unterlagen zentral verfügbar zu machen, tritt an dessen Stelle nun eine Lösung, die über mehrere Protokolle erreichbar ist:</p>
+<p>http://db.tt/NYepoPINachdem wir im Ersten Semester mit mehr oder weniger Erfolg <a href="/tag/TeamDrive">TeamDrive</a> eingesetzt haben, um die Studiums-Unterlagen zentral verfügbar zu machen, tritt an dessen Stelle nun eine Lösung, die über mehrere Protokolle erreichbar ist:</p>
 <h3 class="textimage">FTP</h3>
 <p>die Zugangsdaten versende ich auf Anfrage.</p>
 <h3 class="textimage">Web</h3>
-<p>via <a href="http://studium.coderbyheart.de/studitransfer-auf-dropbox">Dropbox</a></p>
+<p>via <a href="/studitransfer-auf-dropbox">Dropbox</a></p>

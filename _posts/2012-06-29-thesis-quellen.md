@@ -23,12 +23,12 @@ comments:
 - id: 262
   author: 'Thesis: Statistiken &laquo; Markus studiert!'
   author_email: ''
-  author_url: http://studium.coderbyheart.de/thesis-statistiken
+  author_url: /thesis-statistiken
   date: '2012-06-29 12:15:45 +0200'
   date_gmt: '2012-06-29 10:15:45 +0200'
   content: "[...] 9 zitierte Literaturquellen [...]"
 ---
-<p>Hier die Liste der verwendeten Quellen meiner <a href="http://studium.coderbyheart.de/thesis-abstract">Thesis</a>.</p>
+<p>Hier die Liste der verwendeten Quellen meiner <a href="/thesis-abstract">Thesis</a>.</p>
 <h3>Literatur</h3>
 <ul>
 <li><a href="http://l.tckr.cc/MuMNdv">Communicating Design: Developing Web Site Documentation for Design and Planning</a>, Dan M. Brown</li>
