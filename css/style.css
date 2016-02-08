@@ -54,7 +54,7 @@ hr { width: 90%; border: 1px solid #BBCCE2; padding: 0; margin: 1em 5% 1em 5%; }
 
 textarea, input { width: 100%; }
 
-h1 { text-indent: -9000px; width: 420px; height: 77px; margin: 0 0 15px 0; }
+h1 { text-indent: -9000px; width: 420px; height: 77px; margin: 0 0 50px 0; }
 h2, h3 { font-weight: bold; margin: 0 0 1em 0; }
 p, dl, ol, ul { font-size: 0.8125em; margin: 0 0 1em 0; line-height: 1.5em; }
 .latestpost li { margin: 0 0 0.5em 2em; list-style: initial; }
@@ -115,6 +115,9 @@ table.features .impl { color:#008000; }
 table.features .notimpl { color:#b80047; }
 table.features .discarded { color:#666666; }
 
+.textimage { font-family: 'Rock Salt', sans-serif; text-decoration: none; }
+.textimage-p { color: #0e4a99; }
+.textimage-h2, .textimage-h2 a { color: #0e4a99; }
 .multiline-textimage { margin-right: 0.5em; }
 
 @media screen {

@@ -7,3 +7,7 @@ url: "https://studium.coderbyheart.de"
 
 # Build settings
 markdown: kramdown
+paginate: 10
+paginate_path: "/page/:num"
+gems:
+  - jekyll-paginate
