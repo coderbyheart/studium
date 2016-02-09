@@ -23,7 +23,7 @@ tags:
 <p>Für Studenten bietet sich so die einmalige Möglichkeit, ihre Ideen und Konzepte vor fachlich versiertem Publikum zu präsentieren und mit dem ein oder anderen potentiellen Arbeitgeber Kontakte zu knüpfen. Ein Stand auf der <em>see</em> bedeutet noch dazu freien Eintritt zur Konferenz — alles in allem ein toller Anreiz auch für uns Medieninformatiker vielleicht schon im nächsten Jahr mit einem Projekt vertreten zu sein.</p>
 <p>Aber nun genug geredet, hier sind die gezeigten Projekte ...</p>
 <p>Weitere Fotos von den Projekten und der Konferenz finden sich in meinem flickr-Album zur <a href="http://www.flickr.com/photos/tacker/sets/72157626429040647/">see6</a>.<br />
-<a id="more"></a><a id="more-504"></a></p>
+</p>
 <h3 class="textimage">Silke / Kinetic Chandelier</h3>
 <p><a href="http://www.flickr.com/search/?ss=2&amp;mt=all&amp;adv=1&amp;w=58334991%40N00&amp;q=%22see6+silke%22&amp;m=tags"><img src="http://farm6.static.flickr.com/5228/5644243874_5514d99195.jpg" alt="Silke / Kinetic Chandelier" width="500" /></a></p>
 <p>Meiner Meinung nach das faszinierendste Projekt, berührt <a href="http://www.sebastianneitsch.de/index.php?/project/kinetic-chandelier-silke/">Silke</a> doch durch ihre fast zärtliche Reaktion auf jeden, der sich ihr nähert.</p>

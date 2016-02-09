@@ -11,7 +11,7 @@ tags:
 - WhatTheFoto
 ---
 <p><img class="alignright size-full wp-image-459" title="Leuchttisch Logo" src="/uploads/2011/03/Leuchttisch-250.png" alt="" width="250" height="260" />Willkommen zur ersten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!<br />
-<a id="more"></a><a id="more-457"></a></p>
+</p>
 <h3 class="textimage">Das Projekt</h3>
 <p><em>Leuchttisch</em> — so haben wir unser Projekt getauft — ist ein kollaborative Software zum Erstellen von Fotosammlungen und wird als Teil der Veranstaltung Softwaretechnik im 4. Semester des Studienganges <a href="http://www.hs-rm.de/medieninformatik">Medieninformatik</a> an der <a href="http://hs-rm.de/">Hochschule RheinMain</a> durch die Studenten entwickelt.</p>
 <p>Die Rahmenbedingungen sind dabei vorgegeben: In 14 Wochen entsteht in Teams zu je etwa 10-12 Personen ein Standalone-Client auf Basis von <a href="http://de.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a> (C#), sowie auf Server, der in Java geschrieben wird. Client und Server dürfen nur über Schnittstelle miteinander kommunizieren und haben ansonsten keine gemeinsame Datenbasis.</p>

@@ -20,7 +20,7 @@ tags:
 <p>Gestern war ein ehemaliger <a href="http://krawall.de/">Krawall</a>-Kollege bei mir, um ein paar Infos zum Studium ein zu holen. Insbesondere stand für ihn die Frage der Vereinbarkeit von Studium und Berufstätigkeit im Vordergrund — die ich nach inzwischen dreieinhalb Semesters ganz gut beantworten kann: es ist <em>quasi</em> unmöglich.</p>
 <p>Zum einen ist der Studienplan auf ein Vollzeitstudium ausgelegt. Das bedeutet, in der Regel ist man in der Woche locker 30 Stunden in der Uni vor Ort, und wird zusätzlich noch mit Praktikumsaufgaben, Abgaben, Testaten und Projekten auf Trab gehalten, die je nach Fach mal über 2 Wochen gehen, oder auch das ganze Semester dauern.</p>
 <p>In Summe kommt man so bestimmt auf eine 40 bis 60 Stundenwoche — dass da keine Zeit mehr bleibt, um einer regelmäßigen Beschäftigung nach zu gehen versteht sich von selbst.<br />
-<a id="more"></a><a id="more-559"></a><br />
+<br />
 Gerne wird auf den freien Dienstagnachmittag verwiesen, der laut Plan in jedem Semester frei ist, allerdings finden dort dann z.B. Tutorien statt, oder, wie jetzt im vierten Semester, verwendet man diese Zeit, für Meetings der laufende Projektgruppen, da zu dieser Zeit ja alle keine reguläre Veranstaltung haben.</p>
 <p>Nebenbei arbeiten funktioniert also, wenn man den Abschluss in der Regelstudienzeit anstrebt nur, wenn man Abstriche an die eigene Leistung macht, oder das Glück hat, gut bezahlt zu werden.</p>
 <p>Praktisch trifft das aber auf fast niemanden zu, also muss man eine Alternative einplanen.</p>

@@ -25,7 +25,7 @@ tags:
 </ol>
 <p>Da das alles <em>leicht</em> nervig ist, gibt es nun ein <a href="http://www.teamdrive.net/">TeamDrive</a>-Share für die Medieninformatiker, der Space wird gesponsort von <a href="http://krawall.de/">Krawall.de</a>.</p>
 <p>Bitte schick mir deine E-Mail-Adresse, dann schick ich dir eine Einladung zum Space.<br />
-<a id="more"></a><a id="more-35"></a></p>
+</p>
 <h3 class="textimage" id="update1">Update 20. Oktober 2009</h3>
 <p>Damit aus versehen nicht mal ein paar Daten gelöscht werden können, haben alle Studenten ab sofort erst keine Lösch-Rechte mehr. Hinzugefügt werden können Dateien aber weiterhin. Auch können alle Mitglieder andere Mitglieder einladen.</p>
 <h3 class="textimage" id="update2">Update 10. November 2009</h3>

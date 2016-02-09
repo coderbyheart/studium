@@ -15,7 +15,7 @@ tags:
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Für den letzten Eintrag des Entwickler-Blogs &mdash; der wöchentliche Statusbericht, den jedes Teammitglied schreiben muss &mdash; habe ich darum geben, ein Gesamtfazit über den Verlauf des Projektes zu ziehen.</p>
 <p>Hier sind dazu einige Ausschnitte:</p>
-<p><a id="more"></a><a id="more-638"></a></p>
+<p></p>
 <blockquote><p>Das Projekt hat mir sehr viel Spaß gemacht und ich zähle es zu einer der schönsten, als auch nervenaufreibensten Erfahrungen meines bisherigen Studiums. Als Student die Chance zu erhalten, in einer geschützten Ümgebung seine bisherigen erworbenen Kenntnisse einzusetzen, finde ich sehr wichtig und macht sehr viel Lust darauf wieder Vollzeit in die Arbeitswelt einzusteigen. Der Fakt, dass viele der Studenten noch weitere Module und Abgaben bearbeiten mussten, erzeugte eine Druckkulisse, in welcher man sicherlich auch an die Grenzen seiner eigenen Zeitplanung stieß.</p>
 <p>Der abschließende Zusammenhalt in unserer Gruppe ist ganz besonders hervorzuheben und ich bin froh, dass wir uns in dieser Konstellation gefunden haben!</p></blockquote>
 <blockquote><p>Im Großen und Ganzen eine stressige Zeit, mit der viele tolle Erfahrungen mit einhergegangen sind!</p></blockquote>

@@ -11,7 +11,7 @@ tags:
 - WhatTheFoto
 ---
 <p><img class="alignright size-full wp-image-459" title="Leuchttisch Logo" src="/uploads/2011/03/Leuchttisch-250.png" alt="" width="250" height="260" />Willkommen zur zweiten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs!<br />
-<a id="more"></a><a id="more-478"></a></p>
+</p>
 <h3 class="textimage">GUI-Prototyping</h3>
 <p>In der zweiten Projektwoche haben die beiden Gruppen des Frontend-Teams sich mit der Entwicklung der GUI-Prototypen beschäftigt.</p>
 <p>Neben der Entwicklung eines an einen Datei-Explorer angelehnten Client, versucht die "Advanced"-Gruppe die Möglichkeiten von WPF aus zu reizen, um eine haptisch anmutenden Umgebung zu erzeugen.</p>

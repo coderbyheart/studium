@@ -16,7 +16,7 @@ tags:
 <blockquote><p>Bitte entwickeln Sie einen konfigurierbaren Verkehrsplaner, der mindestens folgende Minimalanforderungen<br />
 erfüllt. Über eine Swing-GUI soll es möglich sein, verschiedene Straßenstücke (Gerade, Kreuzungen, Abzweige, Kurven usw) zu platzieren und auf dem entstehenden Straßennetz Fahrzeuge zu platzieren und dann fahren zu lassen.
 </p></blockquote>
-<p><a id="more"></a><a id="more-412"></a><br />
+<p><br />
 Von unserer Umsetzung gibt es auch vier Demo-Videos:<br />
 <a href="{{ '/uploads/2011/01/swt-videos/Drag_Drop.swf' | prepend: site.baseurl | prepend: site.url }}" rel="flash[ar=4/3]">Drag&amp;Drop</a><br />
 <a href="{{ '/uploads/2011/01/swt-videos/Simulation.swf' | prepend: site.baseurl | prepend: site.url }}" rel="flash[ar=4/3]">Simulation</a><br />

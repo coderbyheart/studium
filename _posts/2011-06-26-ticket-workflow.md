@@ -19,7 +19,7 @@ tags:
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Nachfolgend findet sich der offizielle Ticket-Workflow für unser Projekt.</p>
 <p>Einige der Angaben sind <a href="http://trac.edgewall.org/">Trac</a>-spezifisch, können aber leicht auch in anderen Tools zur Softwareverwaltung implementiert werden.</p>
 <p>Der Prozess zur Qualitätssicherung wurde bei uns mit <em>Keywords</em> realisiert &mdash; besser wäre natürlich die Verwendung des <a href="http://trac.edgewall.org/wiki/TracWorkflow">eigenen Workflows von Trac</a> gewesen, da wir aber in der Hochschule keinen Einfluss auf die trac.ini haben, war das leider nicht möglich.<br />
-<a id="more"></a><a id="more-599"></a></p>
+</p>
 <h3 class="textimage">Ein Ticket für jede Änderung</h3>
 <p>Wie in <a href="{{ '/codingstandards' | prepend: site.baseurl | prepend: site.url }}">Codingstandards</a> beschrieben, muss es für jede Änderungen am Quellcode, also für jeden Commit ein Ticket geben, dass mittels des Commit-Kommentaresreferenziert wird.</p>
 <h3 class="textimage">Ein neues Ticket anlegen</h3>

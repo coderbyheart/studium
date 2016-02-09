@@ -22,7 +22,7 @@ tags:
 <li>horafoto</li>
 <li>phosho</li>
 </ul>
-<p><a id="more"></a><a id="more-475"></a><br />
+<p><br />
 Wobei es in der Abstimmung dann ein Kopf-an-Kopf-Rennen zwischen <em>Leuchttisch</em> und <em>foton</em> gab.</p>
 <p><img src="https://spreadsheets.google.com/oimg?key=0AtTPpgm7INxMdEd0NzBLMlRtU2NERDYzc21nXzgwUWc&amp;oid=0&amp;zx=iyuvy11yx789" alt="" /></p>
 <p>Der Hintergrund zu <em>Leuchttisch</em> ist relativ ein<em>leucht</em>end — Fotografen legen negative auf einen Leuchttisch, um diese zu sichten, was im Prinzip der Aufgabe unseres Projekts entspricht. Aus einer ähnlichen Ecke kommt die <em>Fotokiste</em>.</p>

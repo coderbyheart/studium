@@ -11,7 +11,7 @@ tags:
 ---
 <p><a title="Zu flickr-Set Studium" href="http://www.flickr.com/photos/tacker/sets/72157623378309778"><img src="http://farm5.static.flickr.com/4066/4345409757_efcef85f98_b.jpg" alt="Medien Informatik Wiesbaden" width="500" /></a></p>
 <p>Gut ein Jahr nach dem Beginn meines Studiums der <a href="http://www.hs-rm.de/dcsm/studiengaenge/medieninformatik-bsc/index.html">Medieninformatik an der Hochschule RheinMain</a> ist es Zeit für ein Résumé der ersten beiden Semester.<br />
-<a id="more"></a><a id="more-291"></a></p>
+</p>
 <h3 class="textimage">Studieren mitten im Berufsleben</h3>
 <p>Mit 29 war ich letztes Jahr bereits seit 2003 insgesamt 7 Jahre in Vollzeit beschäftigt, rechnen wir die Ausbildung und die Selbständigkeit davor noch mit, war ich bis dahin schon gut 12 Jahre im Geschäft. Deswegen stellte ich mir die Umstellung <a href="http://m.tacker.org/blog/1574.erststudium-mit-29-dank-aufstiegsstipendium.html">damals</a> nicht wirklich leicht und vor allem riskant vor.</p>
 <blockquote><p>Das ist sicherlich ein gewagter Schritt, schließlich verzichte ich auf einen sicheren Job mit fixem Gehalt.</p></blockquote>

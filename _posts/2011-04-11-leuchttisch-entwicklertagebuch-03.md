@@ -11,7 +11,7 @@ tags:
 - WhatTheFoto
 ---
 <p>Willkommen zur dritten Ausgabe des <em>Leuchttisch</em>-Entwicklertagebuchs, in der ich die Ereignisse in der Zeit von Montag, den 4. bis Sonntag, den 10. April 2011 beleuchten werde.<br />
-<a id="more"></a><a id="more-494"></a></p>
+</p>
 <h3 class="textimage">GUI-Prototypen</h3>
 <p>In dieser Woche haben die Frontendentwickler die Ergebnisse ihrer GUI-Prototyp-Entwicklung vorgestellt. Beide Gruppen haben nach knapp zwei Wochen beachtliche Ergebnisse vorzuweisen — mit der Erkenntnis, dass C# und WPF so komfortabel grafisch aufwändige GUIs ermöglichen, dass wir in der finalen Version eine grafisch ansprechende Umsetzung anstreben, die sich nicht durch ein Standardbaukasten an Frames und starren Unterteilungen einschränken lassen wird. Angestrebt ist die Möglichkeit, alle Unterfenster der Anwendung — Panels genannt — frei bewegen, skalieren und ein- und ausblenden zu können.</p>
 <dl>

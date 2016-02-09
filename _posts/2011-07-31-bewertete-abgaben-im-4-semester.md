@@ -14,7 +14,7 @@ tags:
 ---
 <p>Das vierte Semester war nach meinem Gefühl das bisher anstrengendste des Studiums. Allein für das <a href="{{ '/tag/whatthefoto' | prepend: site.baseurl | prepend: site.url }}">Softwaretechnik-Projekt</a> habe ich im Schnitt 16 Stunden pro Woche investiert — dank Zeiterfassung mit <a href="http://mite.yo.lk/">mite</a> kann ich das ziemlich genau sagen.</p>
 <p>Grund für diese Belastung war vor allem die große Menge an bewerteten Abgaben, die wir während des Semesters ausarbeiten mussten. In der Grafik habe ich diese mal zusammengestellt.</p>
-<p><a id="more"></a><a id="more-772"></a></p>
+<p></p>
 <p><a href="http://www.flickr.com/photos/tacker/5993505472/sizes/l/in/photostream/"><img src="http://farm7.static.flickr.com/6002/5993505472_ca6a5f6068.jpg" alt="Bewertete Abgaben im 4. Semester" width="500" /></a></p>
 <p>In manchen Wochen hat man so bis zu sechs Themen auf der Todo-Liste, die alle bearbeitet werden wollen. Da bleibt es leider nicht aus, dass man priorisieren muss und einige Abgaben nur mit dem geringst möglichen Aufwand erledigt werden. Das ist natürlich für einen selber überhaupt nicht befriedigend, aber, <a href="{{ '/studieren-und-arbeiten' | prepend: site.baseurl | prepend: site.url }}">wie schon hier beschrieben</a>, ist das Studium ein Vollzeitstudium und jetzt im vierten Semester macht sich das voll bemerkbar.</p>
 <p>Leider führen diese Kompromisse dazu, dass man bestimmte Inhalte nur soweit wie nötig lernt, um die Aufgabe eines Testates zu erfüllen und sich dieses Halbwissen dann sehr schnell wieder verflüchtigt — meiner Meinung nach lässt das der Semesterplan aber gar nichts anderes zu, es ist also zum Teil gewollt oder wird zumindest in Kauf genommen.</p>

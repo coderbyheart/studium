@@ -18,7 +18,7 @@ tags:
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Für das Projekt haben wir uns auf Codingstandards geeignet, die wir mit Hilfe von <a href="http://cobertura.sourceforge.net/">Cobertura</a> auch in Eclipse und in der Continuous Integration überprüfen.</p>
 <p>Da mit Cobertura auch Tests auf Basis von regulären Ausdrücken ausgeführt werden können, konnten wir auch den C#-Quellcode des Frontendteams zumindest rudimentären Tests unterziehen. Unsere Cobertura-Checks finden sich <a href="{{ '/svn/WTF/codingstandards/cobertura/' | prepend: site.baseurl | prepend: site.url }}">hier</a>.<br />
-<a id="more"></a><a id="more-579"></a></p>
+</p>
 <h3 class="textimage">Coding-Standards für Quellcode</h3>
 <ul>
 <li>Zeilenenden: Unix</li>

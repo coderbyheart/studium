@@ -9,9 +9,9 @@ tags:
 ---
 <p><a href="https://github.com/tacker/hsrm-mi-utils/blob/master/printer-autoselect.py">Dieses Python-Script</a> ermittelt anhand des Hostnamens des Rechners, an dem man sich im Fachbereich der Medieninformatik an der Hochschule RheinMain einloggt, den passenden Drucker.</p>
 <h3 class="textimage">Installation</h3>
-<p>[cc lang="bash"]<br />
-wget --no-check-certificate https://github.com/tacker/hsrm-mi-utils/raw/master/printer-autoselect.py -O ~/printer-autoselect.py<br />
-chmod +x ~/printer-autoselect.py<br />
-echo '~/printer-autoselect.py > /dev/null' >> ~/.bashrc</p>
-<p>[/cc]</p>
+
+    wget --no-check-certificate https://github.com/tacker/hsrm-mi-utils/raw/master/printer-autoselect.py -O ~/printer-autoselect.py
+    chmod +x ~/printer-autoselect.py
+    echo '~/printer-autoselect.py > /dev/null' >> ~/.bashrc
+
 <p>Anschließend wird das Script nach jedem Login ausgeführt.</p>

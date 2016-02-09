@@ -13,7 +13,7 @@ tags:
 ---
 <p>Ziel des Stehgreifprojektes, das um 10 Uhr begann war es, um 15:30 Uhr zu einem vorgegebenen Thema zwei Vorschläge zu präsentieren.<br />
 Zusammen mit Philipp Siegmund und Lars Stratenwerth nahmen wir uns dem Thema Wand an. Hierbei sollte ein Gestaltungskonzept für eine aktuell recht lieblos gestaltete Wand im Fachbereich ausgearbeitet werden.<br />
-<a id="more"></a><a id="more-128"></a></p>
+</p>
 <h3 class="textimage">Entertainment mit LED-Wand</h3>
 <p>Aus einzelnen Modulen wir die gesamte Fläche der Wand – immerhin ca. 9x8 Meter – in eine riesige 72m² große LED-Leinwand verwandelt. Zum Einsatz kommen hierbei 1.008 „MiTRIX“ Module von BARCO mit je 128 LEDs. Insgesamt erreicht die Wand damit eine Auflösung von 375x333 Pixeln, was insgesamt 124.875 einzeln ansprechbaren LEDs entspricht.<br />
 Diese Fläche wird zur Darstellung großflächiger pixelbasierter Animationen und Informationen verwendet. Das Hauptaugenmerk bei der LED-Wand liegt auf dem Transport von Stimmungen und der Anregung von Interaktion als „Bewegte Kunst“.<br />

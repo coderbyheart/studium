@@ -16,7 +16,7 @@ tags:
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Über die Einführung der WorkPackages hatte ich ja schon an anderer Stelle gesprochen.</p>
 <p>Hier möchte ich noch kurz <a href="{{ '/svn/WTF/workpackages/WorkPackages.py' | prepend: site.baseurl | prepend: site.url }}">das Python3-Script</a> vorstellen, dass ich verwendet habe, um die Wiki-Seite mit den WorkPackages zu erstellen.<br />
-<a id="more"></a><a id="more-707"></a><br />
+<br />
 Prinzipiell habe ich dazu einen eigenen Ticket-Typ <em>workpackage</em> erstellt. In diesen Tickets wurde dann speziell formatierte Angaben ausgelesen.<br />
 Aus diesen ganzen Angaben werden dann übersichtlich die Infos zu allen WorkPackages erzeugt:</p>
 <p><a href="http://www.flickr.com/photos/tacker/5984338818/sizes/o/in/photostream/"><img src="http://farm7.static.flickr.com/6142/5984338818_efebda104c_o.png" width="500" alt="Darstellung eines WorkPackage als Wiki-Seite" /></a></p>
@@ -28,8 +28,7 @@ reopened), ausstehende WorkPackages (new) und erledigte Workpackages (closed).</
 <dt>Owner, CC</dt>
 <dd>Der Verantwortliche für ein WorkPackage ist der owner des Tickets, die Mitarbeiter werden aus dem<br />
 Feld CC ausgelesen, wobei die Usernamen dort mit der Liste der Entwickler<br />
-abgeglichen wird.</p>
-<p>Der Owner eines Workpackages ist für dessen Umsetzung verantwortlich, die Personen im Feld CC<br />
+abgeglichen wird. Der Owner eines Workpackages ist für dessen Umsetzung verantwortlich, die Personen im Feld CC<br />
 sind ebenfalls mit der Umsetzung beauftragt.</dd>
 <dt>Kommentare</dt>
 <dd>Die Kommentare, die in einem WorkPackage-Ticket hinterlassen werden, sind das Protokoll über<br />

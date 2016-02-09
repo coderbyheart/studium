@@ -30,7 +30,7 @@ tags:
 <p>Nachdem ich mit Hilfe <a href="https://www.doodle.com/wdf3d9ca7g3fg74t">dieser Doodle-Umfrage</a> versucht habe, den tatsächlichen Bedarf der Studenten an Listenfächern zu ermitteln, wurde das Angebot für das Wintersemester 2011/2012 angepasst. Diese Änderungen habe ich nun im Artikel integriert: Statt Web-Engineering im 6. Semester wird Mobile-Computing im 5. Semester angeboten, in der Liste W gibt es zusätzlich dieses Semester ein Angebot zu Unternehmensgründung durch die Hochschule.</p>
 <h3 class="textimage">Übersicht</h3>
 <p><a href="http://www.flickr.com/photos/tacker/6052820104/in/photostream/"><img src="http://farm7.static.flickr.com/6086/6052820104_4803a7f47f.jpg" alt="Angebotene Listenfächer im Studium" /></a></p>
-<p><a id="more"></a><a id="more-788"></a></p>
+<p></p>
 <h3 class="textimage">Liste MI</h3>
 <p>Die Liste MI ist eine Auswahlliste mit Modulen zu speziellen Gebieten der Medieninformatik. Sie ist mit 5 CP gewichtet.</p>
 <dl>

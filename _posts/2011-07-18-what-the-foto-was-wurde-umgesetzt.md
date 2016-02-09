@@ -18,7 +18,7 @@ tags:
 - WhatTheFoto
 ---
 <p><a href="http://www.flickr.com/photos/tacker/sets/72157626379556132/"><img class="alignright" src="http://farm6.static.flickr.com/5236/5814600568_a78deedb78_m.jpg" alt="What The Foto?" /></a>Wie schon erwähnt, fanden es die meisten Team-Mitglieder schaden, dass wir auf einige <em>coolen</em> Features verzichten mussten, weil wir die Komplexität einiger Funktionen unterschätzt hatten. Allerdings muss man zum einen einmal betrachten, welche Features wir vom ursprünglichen Plan trotzdem umsetzen konnten — schließlich konnten wir zu Beginn des Projektes den Aufwand für die einzelnen Funktionen gar nicht abschätzen, denn für das Gesamte Team war es das erste große Projekt im Studium, mit einigen bis dahin unbekannten Technologien: WPF mit C#, Messaging mit ActiveMQ und ein Java-Server (bisher haben wir immer GUIs gebaut).<br />
-<a id="more"></a><a id="more-647"></a></p>
+</p>
 <h3 class="textimage">Wie sind wir zu unseren Features gekommen?</h3>
 <dl>
 <dt><a href="http://www.flickr.com/photos/tacker/5569095320/in/set-72157626379556132"><img src="http://farm6.static.flickr.com/5053/5569095320_a5e2545d8a_b.jpg" alt="Brainstorming Flipchart" width="500" /></a></dt>
