@@ -28,7 +28,7 @@ tags:
 <h3 class="textimage">Was wurde dann umgesetzt?</h3>
 <p>Herausgekommen ist eine Liste von Features, von denen wir bis zum Entwicklungsende auch die meisten implementieren konnten (grün). Die nicht implementierten (rot) sind meiner Meinung nach keinesfalls kritisch, und dass wir auf diese Verzichten konnten, zeigt auch, dass wir uns gut strukturiert zuerst um die wichtigen Dinge gekümmert haben — lediglich für das Auslesen der EXIF-Daten gab es zum Zeitpunkt des Entwicklungsendes funktionsfähigen Code, der wieder entfernt wurde.</p>
 <p>Schade fanden die meisten den Verzicht auf die Druckfunktion und die Effekte, wobei man hier relativierend sagen kann, dass der technische Aufwand dafür eher begrenzt gewesen wäre. So viel dann die Entscheidung nach der zweiten Demo zu Gunsten der Stablisierung der bis dahin implementierten Funktionen.</p>
-<p>Rein nominell haben wir 64% der geplanten Funktionen implementiert, vom Umfang her dürften diese aber bei schätzungsweise 90% liegen, was man auch gut <a href="/what-the-foto-demo-videos">in den Demo-Videos begutachten kann</a>.</p>
+<p>Rein nominell haben wir 64% der geplanten Funktionen implementiert, vom Umfang her dürften diese aber bei schätzungsweise 90% liegen, was man auch gut <a href="{{ '/what-the-foto-demo-videos' | prepend: site.baseurl | prepend: site.url }}">in den Demo-Videos begutachten kann</a>.</p>
 <p>Grau markiert sind die Features, die bereits im Brainstorming durchgefallen sind.</p>
 <table class="normal features">
 <tbody>

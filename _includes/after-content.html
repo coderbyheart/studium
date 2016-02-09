@@ -72,9 +72,9 @@
   <ul id="footer">
     <li><span class="textimage textimage-footer">&copy; 2009–{{ site.time | date:
     '%Y' }}</span> <a href="http://tckr.cc/" rel="author" class="textimage textimage-footer">Markus Tacker</a></li>
-    <li><a href="/hinweise" class="textimage textimage-footer">Hinweise</a></li>
-    <li><a href="/impressum" class="textimage textimage-footer">Impressum</a></li>
-    <li><a href="/datenschutz" class="textimage textimage-footer">Datenschutz</a></li>
+    <li><a href="{{ '/hinweise' | prepend: site.baseurl | prepend: site.url }}" class="textimage textimage-footer">Hinweise</a></li>
+    <li><a href="{{ '/impressum' | prepend: site.baseurl | prepend: site.url }}" class="textimage textimage-footer">Impressum</a></li>
+    <li><a href="{{ '/datenschutz' | prepend: site.baseurl | prepend: site.url }}" class="textimage textimage-footer">Datenschutz</a></li>
   </ul>
 </div>
 <div id="markus"><!-- --></div>

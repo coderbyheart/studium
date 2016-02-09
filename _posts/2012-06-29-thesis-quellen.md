@@ -6,7 +6,7 @@ date: '2012-06-29 12:14:59 +0200'
 tags:
 - Thesis
 ---
-<p>Hier die Liste der verwendeten Quellen meiner <a href="/thesis-abstract">Thesis</a>.</p>
+<p>Hier die Liste der verwendeten Quellen meiner <a href="{{ '/thesis-abstract' | prepend: site.baseurl | prepend: site.url }}">Thesis</a>.</p>
 <h3>Literatur</h3>
 <ul>
 <li><a href="http://l.tckr.cc/MuMNdv">Communicating Design: Developing Web Site Documentation for Design and Planning</a>, Dan M. Brown</li>

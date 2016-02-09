@@ -12,7 +12,7 @@ tags:
 - XML
 - Datenbanksysteme
 ---
-<p>Für unser <a href="/tag/Datenbanksysteme">Datenbank-Projekt</a> habe ich ein XML-Stylesheet geschrieben, dass aus einer einfachen XML-Datei ein schönes Relationenmodell erzeugt.</p>
+<p>Für unser <a href="{{ '/tag/Datenbanksysteme' | prepend: site.baseurl | prepend: site.url }}">Datenbank-Projekt</a> habe ich ein XML-Stylesheet geschrieben, dass aus einer einfachen XML-Datei ein schönes Relationenmodell erzeugt.</p>
 <p><img src="/uploads/2010/12/2010-12-31-115.png" alt="Relationemodelle mit XSL erzeugen" title="2010-12-31-115" width="500" class="alignnone size-full wp-image-402" /><br />
 <a id="more"></a><a id="more-394"></a></p>
 <h3 class="textimage">XML</h3>

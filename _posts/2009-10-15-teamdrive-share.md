@@ -33,4 +33,4 @@ tags:
 Ich konnte den Kurse-Ordner zwar von meinem Laptop kopieren &mdash; ohne TeamDrive vorher zu starten &mdash; und so das ganze relativ schnell und unkompliziert rückgängi machen, aber beim nächsten Mal klappt das Wiederherstellen vielleicht nicht mehr so ohne weiteres ...<br />
 Wer jetzt weiterhin Schreibrechte haben will, bitte melden.</p>
 <h3 class="textimage" id="update3">Update 2010</h3>
-<p>Seit 2010 verwenden wir TeamDrive nicht mehr, sondern sind auf <a href="/tag/dropbox">DropBox</a> umgestiegen.</p>
+<p>Seit 2010 verwenden wir TeamDrive nicht mehr, sondern sind auf <a href="{{ '/tag/dropbox' | prepend: site.baseurl | prepend: site.url }}">DropBox</a> umgestiegen.</p>
