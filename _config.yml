@@ -3,7 +3,7 @@ email: your-email@domain.com
 description: > # Markus Tacker studiert Medieninformatik an der Hochschule RheinMain. 
   In diesem Blog berichtet er über seinen Studienalltag.
 baseurl: ""
-url: "https://studium.coderbyheart.de"
+url: "http://studium.coderbyheart.de"
 
 # Build settings
 markdown: kramdown
